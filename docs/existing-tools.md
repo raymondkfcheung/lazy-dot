@@ -4,7 +4,7 @@ This document summarises the existing landscape of AI-powered developer tools wi
 
 ## Introduction
 
-The Polkadot ecosystem has several existing AI-powered tools and related projects. These initiatives range from public-facing chatbots to open-source developer tools and proofs of concept. The consensus from our discussions is that while these tools exist, there is a clear need for a unified, trustworthy, and deeply code-aware solution to better serve developers. This summary captures the known projects to provide context for future work.
+The Polkadot ecosystem has several existing AI-powered tools and related projects. These initiatives range from public-facing chatbots to open-source developer tools and proofs of concept. This summary captures these known projects to provide an overview of the current landscape.
 
 ## Existing AI Tools & Projects
 
@@ -20,7 +20,7 @@ This section covers live tools and the open-source codebases behind them.
 
 These are not standalone tools but represent important context, learnings, or related efforts within the ecosystem.
 
-### [W3F Grants Programme: mcp-polkadot](https://grants.web3.foundation/applications/mcp-polkadot)
+### W3F Grants Programme: [mcp-polkadot](https://grants.web3.foundation/applications/mcp-polkadot)
 
 The `mcp-polkadot` project, funded through the Web3 Foundation grants programme, indicates wider ecosystem interest in AI tooling and represents another team to potentially engage with for shared learnings.
 
