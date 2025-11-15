@@ -12,6 +12,6 @@ Technically, you still need solid skills such as problem-solving and proficiency
 
 Then choose your ecosystem: Polkadot, Ethereum, Solana, or something else? I can't speak for the others, as my experience is mainly with Polkadot. Most protocols are open source, so browse their repositories, review PRs, and contribute where you can. Find the ecosystem that suits you best and immerse yourself in it. For Polkadot, you can join PBA before committing fully. It's a personal choice. I'm biased, so I won't compare ecosystems here.
 
-Preparation matters: understand blockchain fundamentals, practise some [LeetCode](https://leetcode.com)-style questions, read interview blogs like [HelloInterview](https://www.hellointerview.com), and try to get mock [interviews](https://youtu.be/WKVH0Lexw_U) if possible. When you're ready, apply.
+Preparation matters: understand blockchain fundamentals, practise some [LeetCode](https://leetcode.com)-style questions, read interview blogs like [HelloInterview](https://www.hellointerview.com), and try to get mock interviews if possible. When you're ready, apply.
 
-Simple? Yes - but also hard!
+Simple? Yes - but also [hard](https://youtu.be/WKVH0Lexw_U)!
