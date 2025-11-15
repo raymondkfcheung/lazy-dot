@@ -8,7 +8,7 @@ But reality rarely works that way.
 
 ## Coding
 
-If you do need to study, the most effective approach is still structured practice. [LeetCode](https://leetcode.com) is the modern equivalent of what [*Cracking the Coding Interview*](https://www.crackingthecodinginterview.com/) used to be. These days, channels like [**Cracking FAANG**](https://www.youtube.com/@crackfaang) and [**NeetCode**](https://www.youtube.com/@NeetCode) offer the clearest breakdowns of patterns and approaches.
+If you do need to study, the most effective approach is still structured practice. [LeetCode](https://leetcode.com) is the modern equivalent of what [*Cracking the Coding Interview*](https://www.crackingthecodinginterview.com/), by Gayle Laakmann McDowell, used to be. These days, channels like [**Cracking FAANG**](https://www.youtube.com/@crackfaang) and [**NeetCode**](https://www.youtube.com/@NeetCode) offer the clearest breakdowns of patterns and approaches.
 
 Some interviews take a pair-programming style instead, where you build a component step by step - such as [implementing a cache](https://blog.janestreet.com/what-a-jane-street-dev-interview-is-like/). These questions examine your grasp of data structures and algorithms at a conceptual level rather than your ability to recall a particular pattern.
 
