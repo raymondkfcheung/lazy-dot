@@ -1,4 +1,4 @@
-# Failed Candidate
+# What I Learned After Failing Many Interviews
 
 Before preparing for interviews, it helps to understand why the process feels broken - and why it's genuinely difficult. [Kristen Shaker's explanation captures this reality well](https://youtu.be/WKVH0Lexw_U); it's worth watching that first.
 
