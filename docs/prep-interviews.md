@@ -1,8 +1,8 @@
-# Failed Candidate
+# What I Learned After Failing Many Interviews
 
 Before preparing for interviews, it helps to understand why the process feels broken - and why it's genuinely difficult. [Kristen Shaker's explanation captures this reality well](https://youtu.be/WKVH0Lexw_U); it's worth watching that first.
 
-The short version: you shouldn't *need* to study. As [Joe Smith](https://www.hudsonrivertrading.com/hrtbeat/engineering-and-interviewing-at-hrt/) at HRT once said, “Our ideal is that a strong programmer from a competitive environment should be able to ace our technical interview without doing any preparation."
+The short version: you shouldn't *need* to study. As [Joe Smith](https://www.hudsonrivertrading.com/hrtbeat/engineering-and-interviewing-at-hrt/) at HRT said, "Our ideal would be that a strong programmer from a competitive firm would ace our technical interview with no studying."
 
 But reality rarely works that way.
 
@@ -16,7 +16,7 @@ For deep understanding, [Robert Sedgewick](https://sedgewick.io)'s [*Algorithms*
 
 ## Technical Discussion
 
-This part assesses your fundamentals: language internals, concurrency, atomics, and the ability to explore system-level questions. If you understand the basics well, it shouldn't be too daunting.
+This part assesses your fundamentals: language internals, concurrency, atomics, and the ability to explore system-level questions. If you understand the basics well, it shouldn't be too daunting. Interviewers rarely wander beyond your experience or the technologies listed on your CV, since that would waste time.
 
 The difficulty is that the discussion flows based on your answers. You might start with "What is async?" and suddenly find yourself comparing Rust's `Future` to Java's `Future`, talking about executors, or explaining how an event loop works. The follow-ups are unpredictable.
 
@@ -39,7 +39,7 @@ These books and websites deepen the sort of knowledge technical discussions draw
 
 ## System Design
 
-Most system design rounds revolve around common systems - YouTube, WhatsApp, or domain-specific components such as [building an exchange](https://www.janestreet.com/tech-talks/building-an-exchange/). Interviewers rarely wander beyond your experience or the technologies listed on your CV, since that would waste time.
+Most system design rounds revolve around common systems - YouTube, WhatsApp, or domain-specific components such as [building an exchange](https://www.janestreet.com/tech-talks/building-an-exchange/). 
 
 If you prepare only one thing, skim [**Designing Data-Intensive Applications**](https://dataintensive.net) by Martin Kleppmann. It's the "gold book" of system design.
 
