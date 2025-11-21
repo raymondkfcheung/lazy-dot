@@ -76,7 +76,10 @@ async fn main() -> Result<()> {
             }
 
             let title = &item.title;
-            if title.contains("Backport #") && author.login.starts_with("paritytech-cmd-bot") {
+            if title.contains("Backport #")
+                && author.login.starts_with("paritytech-")
+                && author.login.ends_with("bot[bot]")
+            {
                 continue;
             }
 
