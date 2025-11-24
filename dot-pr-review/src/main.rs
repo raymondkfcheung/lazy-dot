@@ -31,7 +31,7 @@ async fn main() -> Result<()> {
     //
     //  is:pr involves:@me updated:>=YYYY-MM-DD
     //
-    let mut query = format!("is:pr involves:@me updated:>={}", date_str);
+    let mut query = format!("involves:@me updated:>={}", date_str);
 
     if let Some(repo) = &args.repo {
         query.push(' ');
@@ -46,6 +46,7 @@ async fn main() -> Result<()> {
     loop {
         for item in &page.items {
             // `item` is an Issue-like object, but `pull_request` is Some for PRs.
+            let is_pr = item.pull_request.is_some();
             let author = &item.user;
             let assginee = &item.assignee.as_ref().unwrap_or(&author);
             if assginee.login != me.login {
@@ -55,7 +56,7 @@ async fn main() -> Result<()> {
             let title = &item.title;
             if title.contains("Backport #")
                 && author.login.starts_with("paritytech-")
-                && author.login.ends_with("bot[bot]")
+                && author.login.ends_with("[bot]")
             {
                 continue;
             }
@@ -66,7 +67,10 @@ async fn main() -> Result<()> {
             let url = &item.html_url;
             let desc = &item.body.as_deref().unwrap_or_default();
 
-            println!("#{number}  {title} (updated: {updated_at})");
+            println!(
+                "{}#{number}  {title} (updated: {updated_at})",
+                if is_pr { "PR" } else { "Issue" }
+            );
             println!(
                 "    created by {}, assigned to {}",
                 author.login, assginee.login
