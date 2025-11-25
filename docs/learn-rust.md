@@ -1,6 +1,6 @@
 # How I Learnt Rust
 
-## Starting the Journey (2021–2024)
+## Starting the Journey
 
 My first attempt at Rust began in 2021, working through [*The Rust Programming Language*](https://doc.rust-lang.org/book/). The pace was irregular, and my progress stalled more than once. In 2024, I finally made a more determined effort and completed a few small side projects. By 2025, I found myself working as a Rust engineer at Web3. The [route](blockchain-journey.md) there wasn't something I had planned.
 
