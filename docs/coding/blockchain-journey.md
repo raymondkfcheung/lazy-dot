@@ -2,7 +2,7 @@
 
 It's hard to spot the right moment, and easy to miss it. Looking back, I missed the early chance to join the wave in 2017 - but that's history now.
 
-My next journey began in 2021, when I first heard about [Polkadot](https://polkadot.com). I started learning Rust and applied for the first-ever [Polkadot Blockchain Academy (PBA)](https://polkadot.com/blockchain-academy). I even reached the interview stage, but I couldn't be away from my family for that long, so the application didn't progress.
+My next journey began in 2021, when I first heard about [Polkadot](https://polkadot.com). I started [learning Rust](learn-rust.md) and applied for the first-ever [Polkadot Blockchain Academy (PBA)](https://polkadot.com/blockchain-academy). I even reached the interview stage, but I couldn't be away from my family for that long, so the application didn't progress.
 
 After that, I kept studying blockchain technologies - [Bitcoin](https://bitcoin.org), [Ethereum](https://ethereum.org), [Solana](https://solana.com), and of course Polkadot - focusing on [Solidity](https://www.soliditylang.org) and [Rust](https://rust-lang.org). I watched nearly all the [PBA videos on YouTube](https://www.youtube.com/@polkadotblockchainacademy) (the ones uploaded in 2024). Then I took a chance and eventually landed a position at [Parity](https://www.parity.io). I joined in 2025, and now I'm a blockchain developer.
 
