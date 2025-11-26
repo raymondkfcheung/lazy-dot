@@ -37,3 +37,21 @@ For structured exercises, I'm also working through [Exercism's C++ track](https:
 This is entirely for fun and curiosity. Modern C++ is practically a different language from the classic version I used to write.
 
 Let's see how far I get this time.
+
+## Watch Later
+
+* [Back to Basics: (Range) Algorithms in C++, 2023](https://youtu.be/eJCA2fynzME)
+* [Back to Basics: C++ Move Semantics, 2022](https://youtu.be/knEaMpytRMA)
+* [Back to Basics: C++ Smart Pointers, 2022](https://youtu.be/YokY6HzLkXs)
+* [Back to Basics: Concepts in C++, 2024](https://youtu.be/jzwqTi7n-rg)
+* [Back to Basics: Lifetime Management in C++, 2024](https://youtu.be/aMvIv6blzBs)
+* [Back to Basics: Object-Oriented Programming in C++, 2024](https://youtu.be/SuubuqI4gVA)
+* [Back to Basics: RAII in C++, 2022](https://youtu.be/Rfu06XAhx90)
+* [C++ Performance Tips: Cutting Down on Unnecessary Objects, 2025](https://youtu.be/ypkAKB9-2Is)
+* [Delivering Safe C++, 2023](https://youtu.be/I8UvQKvOSSw)
+* [From Chaos to Control: Overcoming C and C++'s Inherent Unsafety, 2025](https://youtu.be/FKPlRTRWorQ)
+* [Rust Traits In C++, 2025](https://youtu.be/uM72qP5Wh18)
+* [The Evolution of `std::optional`: From Boost to C++26, 2025](https://youtu.be/fTbTF0MUsPA)
+* [Understanding and Mastering C++'s Complexity, 2021](https://youtu.be/ECA-7erEJdU)
+* [Writing Ccache Friendly C++, 2018](https://youtu.be/Nz9SiF0QVKY)
+* [Your New Mental Model of `constexpr`, 2021](https://youtu.be/MdrfPSUtMVM)
