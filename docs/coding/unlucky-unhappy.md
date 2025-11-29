@@ -28,4 +28,6 @@ Reflection is valuable, but being too harsh on yourself is unhealthy. It erodes 
 
 In software we write many tests to avoid edge cases. Unit tests, integration tests, behavioural tests and various stress tests all aim to reduce surprises. Real life doesn’t offer the same guarantees. Edge cases can’t always be predicted, and even when you expect them, preparation may still fall short. Planning is easy. Execution is harder, especially when your energy is limited.
 
+## Be Lucky, Be Happy
+
 All of these have been my ways of undermining myself and making life more difficult than it needed to be. There are probably more, but these are the most significant. They’re not universal truths, only personal reflections. I share them to help myself move on. I can look back, but I can’t change the past. I still have the present. The future is you. « C'est vous l'avenir ».
