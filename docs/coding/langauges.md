@@ -34,7 +34,7 @@ For me, **Python** has mainly been a backend language: web APIs, internal toolin
 * Machine learning and AI
 * Automation and DevOps tooling
 
-Its biggest advantage is speed of iteration. You can get from idea to working prototype in very little time. That is why it dominates notebooks, experiments and exploratory work. The trade-off is that long-lived Python systems need discipline, otherwise they become messy quickly.
+Its biggest advantage is speed of iteration. You can get from idea to working prototype in very little time. That is why it dominates notebooks, experiments and exploratory work.
 
 From a career perspective, Python is a strong choice. It is a natural route into data and ML, and it also serves as a common foundation for a large amount of cloud tooling.
 
@@ -79,7 +79,7 @@ Together, JavaScript and TypeScript cover everything from front-end interfaces t
 
 **C** was my first professional language after graduating. I have not used it heavily since, but understanding it properly still pays off. It gives you a concrete mental model of memory, pointers and undefined behaviour, and it helps you understand what higher-level languages are doing behind the scenes.
 
-Modern **C++** is very different from the older style I used early on. Features such as smart pointers, move semantics, concepts and ranges make it feel like a [new language](relearn-cpp.md).
+Modern **C++** is very different from the older style I used early on. Features such as smart pointers, move semantics, concepts and ranges make it feel like a new language.
 
 C++ roles tend to appear in a few domains:
 
@@ -87,7 +87,7 @@ C++ roles tend to appear in a few domains:
 * Game development and game engines
 * Legacy but important systems that cannot easily be rewritten
 
-The learning curve is steep. If you are already comfortable with Rust, modern C++ can feel strangely familiar and unfamiliar at the same time. For me, revisiting it has been more curiosity than necessity, but it sharpens low-level thinking.
+The learning curve is steep. If you are already comfortable with Rust, modern C++ can feel strangely familiar and unfamiliar at the same time. For me, [revisiting](relearn-cpp.md) it has been more curiosity than necessity, but it sharpens low-level thinking.
 
 ## Other Languages
 
@@ -96,10 +96,6 @@ The learning curve is steep. If you are already comfortable with Rust, modern C+
 Even though I do not write **Go** professionally, it is hard to ignore. Many modern infrastructure tools are written in Go: container tooling, cloud-native systems, networking components and observability stacks.
 
 If you enjoy backend engineering with a focus on reliability and simplicity, Go can be a strong option.
-
-### Lua
-
-**Lua** appears in unexpected places. It is often embedded inside game engines and tools, and it works well for scripting and configuration. When I used Lua, it felt close to Python: dynamic, flexible and easy to embed. It is rarely a primary job requirement but useful in specific domains.
 
 ### Swift
 
@@ -111,7 +107,11 @@ If you enjoy user interfaces and product-focused work, Swift offers a very direc
 
 **Solidity** is the most common language for writing smart contracts on Ethereum. There are many online bootcamps and courses for it. The ecosystem is still evolving rapidly, but knowledge of Solidity is useful if you want to explore blockchain protocols, smart contract development or decentralised applications.
 
-## Conclusion: Pick a Life, Then Pick a Language
+### Lua
+
+**Lua** appears in unexpected places. It is often embedded inside game engines and tools, and it works well for scripting and configuration. When I used Lua, it felt close to Python: dynamic, flexible and easy to embed. It is rarely a primary job requirement but useful in specific domains.
+
+## Pick a Life, Then Pick a Language
 
 People often start by asking which language they should learn. That is not a bad question, but I have found another one more helpful:
 
@@ -119,15 +119,15 @@ What kind of problems do I want to work on, and what sort of life do I want arou
 
 Once you answer that, the language choices fall into place.
 
-* For stable enterprise work, Java or C# makes sense.
+* For stable enterprise work, Java, C# or C++ makes sense.
 * For data and ML, Python is the natural starting point.
-* For systems programming and performance, Rust or C++ fit well.
-* For infrastructure and cloud tooling, Go is difficult to avoid.
+* For systems programming and performance, C++ or Rust fit well.
+* For web development, JavaScript and TypeScript underpin almost everything.
+* For infrastructure and cloud tooling, Go and Python are difficult to avoid.
 * For mobile ecosystems, Swift for iOS or Kotlin for Android.
-* For web development, TypeScript and JavaScript underpin almost everything.
 * For blockchain work on EVM, Solidity is unavoidable.
 
-Interviews and careers can still be messy and unpredictable. I have had my share of failed interviews and moments of doubt. But looking back, the languages that stayed with me were the ones connected to real work and real curiosity, not just tutorial enthusiasm.
+Interviews and careers can still be messy and unpredictable. I have had my share of [failed interviews](prep-interviews.md) and [moments of doubt](unlucky-unhappy.md). But looking back, the languages that stayed with me were the ones connected to real work and real curiosity, not just tutorial enthusiasm.
 
 You can regret not learning something earlier, or you can decide what kind of engineer you want to become next and choose the languages that support that direction.
 
