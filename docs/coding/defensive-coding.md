@@ -20,7 +20,7 @@ Rust gives you powerful guarantees, but those guarantees don't make your code im
 
 ## A Few Practical Defensive Habits
 
-It's helpful to highlight a few habits mentioned by Kian Paimani that fit directly with this outage scenario:
+It's helpful to highlight a few habits mentioned by Kian's lecture that fit directly with this outage scenario:
 
 * **Assume your assumptions can be wrong** - even when something "should never fail", code as if it might.
 * **Prefer handling over panicking** - `unwrap` and `expect` are convenient, but mapping or propagating errors keeps the system running.
