@@ -12,7 +12,7 @@ pub fn fetch_features(...) -> Result<(), (ErrorFlags, i32)> {
 }
 ```
 
-This is a classic example of a missing defensive guard. The [video](https://youtu.be/y8ZnmM555UY) focuses on defensive practices in Polkadot's Rust codebase, but the principles apply everywhere.
+This is a classic example of a missing defensive guard. The [lecture by Kian Paimani](https://youtu.be/y8ZnmM555UY) focuses on defensive practices in Polkadot's Rust codebase, but the principles apply everywhere.
 
 > Defensive Programming is a form of defensive design to ensure the continuing function of a piece of software under **unforeseen** circumstances, where high availability, safety, or security is needed.
 
