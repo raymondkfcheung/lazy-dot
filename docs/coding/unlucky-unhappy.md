@@ -1,6 +1,6 @@
 # How to Make Yourself Unlucky and Unhappy
 
-Working as a software engineer is challenging. [Interview processes](../prep-interviews.md) have become increasingly demanding. In the past it was common to have two rounds before receiving an offer. Now the process can stretch to eight or more, and some people even face ten. At the same time, technology continues to evolve. New languages and frameworks appear constantly. Others fade away. A career in software development isn't straightforward.
+Working as a software engineer is challenging. [Interview processes](prep-interviews.md) have become increasingly demanding. In the past it was common to have two rounds before receiving an offer. Now the process can stretch to eight or more, and some people even face ten. At the same time, technology continues to evolve. New languages and frameworks appear constantly. Others fade away. A career in software development isn't straightforward.
 
 Here are some reliable ways to make yourself even more unlucky and unhappy.
 
