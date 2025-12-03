@@ -8,7 +8,7 @@ My professional C++ experience topped out around C++03, with the occasional feat
 
 ## Starting with Beginner-Friendly Books
 
-I picked two accessible books that don't overwhelm you with every corner of the language:
+I picked two accessible books that don't overwhelm myself with every corner of the language:
 
 1. [C++ Primer Plus](https://amzn.eu/d/2DQkEeY) - Stephen Prata
 2. [C++ Crash Course](https://ccc.codes) - Josh Lospinoso
