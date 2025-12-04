@@ -41,8 +41,8 @@ The new version requires slightly more ceremony to use, but it behaves consisten
 * Downstream crates migrate gradually instead of abruptly;
 * Unexpected input no longer triggers abrupt termination; the crate returns structured errors or degrades gracefully.
 
-## Closing Thought
+## Measure Twice, Cut Once
 
 A trait that feels effortless on day one but quietly accumulates undefined behaviour carries hidden costs. True long-term productivity comes from traits that demand clarity upfront yet remain dependable for years.
 
-I continue to provide ergonomic wrappers for the common path, but they are now thin adapters layered over a well-defined core rather than forming the foundation itself. Longevity, not initial speed, has become my measure of success. Like any carefully maintained system, the crate continues running quietly and predictably long after the original author has moved on.
+I still provide ergonomic wrappers for the common path, but they are thin adapters layered over a well-defined core rather than forming the foundation itself. Longevity, not initial speed, has become my measure of success.
