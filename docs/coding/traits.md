@@ -25,7 +25,7 @@ No single change was unreasonable. Taken together they produced undefined behavi
 
 ## Redesign Principles Eventually Applied
 
-Over time I realised the problem was not the individual abstractions but the implicit contracts they carried. The redesign aimed to replace those hidden assumptions with boundaries the compiler could enforce rather than merely suggest.
+The goal was simple: replace hidden assumptions with explicit, enforceable boundaries.
 
 1. Make invariants explicit and enforceable. Where I once relied on convention, I introduced marker types, sealed traits, capability traits, and const generics to push guarantees into the type system.
 2. Version before you break. Instead of a sweeping breaking release, I introduced a staged deprecation plan: `#[deprecated(note = "use NewType instead")]` on the legacy items, parallel modules with v2 suffixes, and a commitment to keep the older surface compiling for two minor versions.
