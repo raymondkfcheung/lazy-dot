@@ -6,7 +6,7 @@ The abstractions felt pleasant when execution stayed within the intended invaria
 
 ## Implicit Contracts are Technical Debt
 
-Many of my earlier traits exposed methods that accepted `&self` while silently depending on interior state changes. Some returned `Option<T>` with the unwritten rule that None was "not expected in real use".
+Many of my earlier traits exposed methods that accepted `&self` while silently depending on interior state changes. Some returned `Option<T>` with the unwritten rule that `None` was "not expected in real use".
 
 Preconditions lived in comments, postconditions in the author's head, and versioning was something to tidy up later.
 
