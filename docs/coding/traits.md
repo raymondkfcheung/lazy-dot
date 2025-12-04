@@ -18,12 +18,14 @@ The breaking point was never a single catastrophic failure. It was a slow accumu
 
 * a method that started yielding values outside its original semantic range;
 * a trait implementation that unintentionally relaxed a constraint another crate still relied on;
-* an `async` boundary whose cancellation behaviour shifted subtly over time
+* an `async` boundary whose cancellation behaviour shifted subtly over time;
 * an internal `unsafe` block whose safety explanation no longer described the real codepath.
 
 No single change was unreasonable. Taken together they produced undefined behaviour at the trait boundary. The compiler could not protect me, and downstream crates began to notice the entropy.
 
 ## Redesign Principles Eventually Applied
+
+Over time I realised the problem was not the individual abstractions but the implicit contracts they carried. The redesign aimed to replace those hidden assumptions with boundaries the compiler could enforce rather than merely suggest.
 
 1. Make invariants explicit and enforceable. Where I once relied on convention, I introduced marker types, sealed traits, capability traits, and const generics to push guarantees into the type system.
 2. Version before you break. Instead of a sweeping breaking release, I introduced a staged deprecation plan: `#[deprecated(note = "use NewType instead")]` on the legacy items, parallel modules with v2 suffixes, and a commitment to keep the older surface compiling for two minor versions.
