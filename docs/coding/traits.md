@@ -1,8 +1,8 @@
 # Designing Traits That Age Well
 
-Early in my career I tended to design trait-based APIs the way many of us first write Rust: favouring ergonomics over rigour, assuming the common case, and leaving edge cases to the caller's judgement.
+Early in my career I tended to design trait-based APIs the way one first approaches Rust: favouring ergonomics over rigour, assuming the common case, and quietly relying on the caller to handle the edges.
 
-The resulting abstractions were pleasant to use when everything followed the ideal execution path. They were also fragile the moment reality diverged from the assumptions baked into the original crate.
+The abstractions felt pleasant when execution stayed within the intended invariants. They became brittle the moment real workloads drifted away from the assumptions embedded in the crate.
 
 ## Implicit Contracts are Technical Debt
 
@@ -19,7 +19,7 @@ The breaking point was never a single catastrophic failure. It was a slow accumu
 * a method that started yielding values outside its original semantic range;
 * a trait implementation that unintentionally relaxed a constraint another crate still relied on;
 * an `async` boundary whose cancellation behaviour shifted subtly over time
-* an internal unsafe block whose safety explanation no longer described the real codepath.
+* an internal `unsafe` block whose safety explanation no longer described the real codepath.
 
 No single change was unreasonable. Taken together they produced undefined behaviour at the trait boundary. The compiler could not protect me, and downstream crates began to notice the entropy.
 
