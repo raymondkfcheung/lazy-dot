@@ -42,12 +42,6 @@ The new major version requires a touch more ceremony to use. It is also far more
 
 ## Closing Thought
 
-A trait that feels effortless on day one but accumulates undefined behaviour in silence is convenience with a hidden cost.
+A trait that feels effortless on day one but quietly accumulates undefined behaviour carries hidden costs. True long-term productivity comes from traits that demand clarity upfront yet remain dependable years later. I still provide ergonomic wrappers for the common path, but they now sit as thin adapters layered over a well-defined core rather than forming the foundation itself.
 
-A trait that asks for clarity upfront yet remains dependable ten years later is true long-term productivity.
-
-I still provide ergonomic wrappers for the common path, but they are now thin adapters layered over a well-defined core rather than the foundation itself.
-
-Longevity, not initial speed, has become the measure of success.
-
-And the crate, like any carefully maintained system, continues running quietly and predictably long after the original author has moved on to other challenges.
+Longevity, not initial speed, has become my measure of success. Like any carefully maintained system, the crate continues running quietly and predictably long after the original author has moved on to other challenges.
