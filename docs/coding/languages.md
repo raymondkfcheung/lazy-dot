@@ -99,7 +99,7 @@ If you enjoy backend engineering with a focus on reliability and simplicity, Go 
 
 ### Swift
 
-**Swift** is the main language for iOS and macOS development. I originally worked with Objective C before moving to Swift for app development. While server-side Swift exists, the majority of demand remains in mobile and desktop applications on Apple platforms.
+**Swift** is the main language for iOS and macOS development. I originally worked with Objective-C before moving to Swift for app development. While server-side Swift exists, the majority of demand remains in mobile and desktop applications on Apple platforms.
 
 If you enjoy user interfaces and product-focused work, Swift offers a very direct route.
 
