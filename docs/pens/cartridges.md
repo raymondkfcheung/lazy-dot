@@ -6,7 +6,10 @@
 | Pen | Cartridge | Alternatives |
 |-----|-----------|--------------|
 | Jinhao 65 | 3.4mm | Parker |
+| Kaweco | 4.0mm Standard | |
 | Lamy | 3.3mm Lamy | |
+| Montblanc | 4.0mm Standard | |
 | Parker | 3.5mm Parker | |
 | Platinum | 4.1mm Platinum | |
+| Waterman | 4.0mm Standard | |
 | Wing Sung 3010 | 3.4mm | Parker |
