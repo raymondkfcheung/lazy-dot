@@ -5,6 +5,7 @@
 
 | Pen | Cartridge | Alternatives |
 |-----|-----------|--------------|
+| Baoer 801 | 4.0mm Standard | |
 | Jinhao 65 | 3.4mm | Parker |
 | Kaweco | 4.0mm Standard | |
 | Lamy | 3.3mm Lamy | |
