@@ -7,3 +7,7 @@ The Hero pen was very sturdy. I used it almost every day until it broke (or perh
 Later, I got another Hero 007, which looks and feels very much like the old one I had. I also filled it with Hero Red ink. It was really cool to write with it. It’s more about the memories than the actual writing. Squeezing the filler brings back a sense of nostalgia. 😜 It makes me feel like I’m a student again.
 
 Time flies. Just an old man talking about the past.
+
+## Reviews
+
+- [Wondernault: Hero 907](https://wondernaut.wordpress.com/2016/12/03/hero-007-fountain-pen/)
