@@ -1,7 +1,7 @@
 # Jinhao Pens
 
-The first Jinhao pen is Baoer 801 Silver Steel, which is also known as Jinhao 801. Baoer is a sub brand of Jinhao. so they same the same look and feel the similar.  it’s every day pen. before buying Wing Sung 3010, I used it everyday. in general it’s smooth no skipping. it may hard start if don’t use for long time
+The first Jinhao pen I got is the Baoer 801 Silver Steel, which is also known as the Jinhao 801. Baoer is a sub-brand of Jinhao, so they share a similar look and feel. It’s an everyday pen. Before buying the Wing Sung 3010, I used it every day. In general, it’s smooth with no skipping. It may hard-start if I don’t use it for a long time.
 
-Jinhao 65 Black with extra fine nib is the second one. the reason to buy it as I want to have an EF nib, which is Lamy compatible. it’s Kind of okay but I prefer to use Baoer 801 or Wing Sung 3010.
+The second one is the Jinhao 65 Black with an extra-fine (EF) nib. I bought it because I wanted an EF nib that is compatible with Lamy nibs. It’s kind of okay, but I prefer using the Baoer 801 or Wing Sung 3010.
 
-Jinhao X159 Red with #8 nib. it’s a clown or inspired by Mountblanc 149. I want to have a bigger nib size so I grabbed one. it’s like other hard start if it’s sitting too Long. as the pen size is large, it’s just use on the desktop. I don’t use it everyday. it’s good for signatures or cilligraphy 
+The third one is the Jinhao X159 Red with a #8 nib. It’s a clone or inspired by the Montblanc 149. I wanted to try a pen with a larger nib, so I grabbed one. Like the other pens, it can hard-start if it sits unused for too long. Since the pen is quite large, I mainly use it at my desk rather than carrying it around. I don’t use it every day. It’s good for signatures or calligraphy.
