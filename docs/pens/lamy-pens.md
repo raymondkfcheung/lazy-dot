@@ -17,5 +17,6 @@ Many people say the Lamy 2000 is a must-have pen. Maybe I should buy one later. 
 
 ## Reviews
 
-- [Guolet Pens: Lamy AL-Star, Safari and Vista](https://youtu.be/eV3cLuyqIJs(
+- [Guolet Pens: Lamy AL-Star, Safari and Vista](https://youtu.be/eV3cLuyqIJs)
+- [JG3 Reviews: Lamy 2000](https://youtu.be/kVoCR3u1tIY)
 - [sbrebrown: Lamy Joy](https://youtu.be/i23eOXVCzGs)
