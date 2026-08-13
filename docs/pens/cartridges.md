@@ -8,10 +8,10 @@
 | Pen | Cartridge | 
 |-----|-----------|
 | Baoer 801 | 2.6mm Bore |
+| Cerruti 1881 (Laban) | 2.4mm Standard |
 | Jinhao 65 | 3.4mm Bore |
 | Jinhao X159 | 2.6mm Bore |
 | Kaweco | 2.4mm Standard |
-| Laban | 2.4mm Standard |
 | Lamy | 3.3mm Lamy |
 | Montblanc | 2.4mm Standard |
 | Parker | 3.5mm Parker |
