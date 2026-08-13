@@ -1,7 +1,11 @@
-# Platinum Preppy
+Platinum Preppy
 
-I bought Platinum Preppy few years ago, which is yellow with the fine nib.
+I bought a Platinum Preppy a few years ago. It’s the yellow one with a fine nib. I inked it and tried some sample writing, but it wasn’t smooth. It felt quite scratchy, so I gave up on it. 
 
-I inked and tried some sample writing. But it isn’t smooth so I gave up. I then repicked it recently. it’s already dry out. I flushed to clean the feed but still no luck. then I uninked it and fully cleaned and put a new ink, Hero Red. it worked beginning but after few pages then skipping and eventually it can’t writing. it seems just my case. I read from other reviewers and they don’t have this kind of issue.
+I picked it up again recently, but it had already dried out. I flushed it to clean the feed, but still had no luck.
 
-originally I thought it may related to the ink issue. but Hero Red worked well for Hero 007. original Platinum Yellow I put into Waterman Allude, which is well writing. so I have no idea and I gave up.
+Then I emptied the pen, gave it a thorough cleaning, and filled it with a new ink, Hero Red. It worked at first, but after a few pages, it started skipping and eventually stopped writing altogether. It seems like this is just an issue with my particular pen. I’ve read reviews from other users, and they don’t seem to have this kind of problem.
+
+Originally, I thought it might be related to the ink. However, Hero Red works well in my Hero 007. The original Platinum Yellow ink I used in the Preppy also writes well in my Waterman Allure.
+
+So I have no idea what’s wrong with the Preppy, and I’ve given up on it.
