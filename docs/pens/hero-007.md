@@ -1,7 +1,9 @@
 # Hero 007
 
-my first fountain pen was hero 616/329,which is Parker 51 clone. I can’t remember the extract model. I it looked like Parker 51. that time I even don’t know what is Parker 51. many years later I bought Parker joyttor originals and Auink Black.
+My first fountain pen was a Hero 616/329, which was a Parker 51 clone. I can’t remember the exact model, but it looked very much like a Parker 51. At the time, I didn’t even know what a Parker 51 was. Many years later, I bought a Parker Jotter Originals and a Quink Black.
 
-the hero pen was very sturd. I wrote nearly very day before it broken (or perhaps lost). smooth, nothing to complain. maybe I don’t know what to complain. later I got another hero 007, which look and feel is like the old one I had. also with Hero Red ink. it was cool to write to it. it’s more about memory than actual writing. squeeze the filling it’s nostalgia. 😜  feeling I was a student.
+The Hero pen was very sturdy. I used it almost every day until it broke (or perhaps I lost it). It was smooth, and I had nothing to complain about—although maybe I simply didn’t know what there was to complain about. 😜
 
-time flies. just an old man talking about the past.
+Later, I got another Hero 007, which looks and feels very much like the old one I had. I also filled it with Hero Red ink. It was really cool to write with it. It’s more about the memories than the actual writing. Squeezing the filler brings back a sense of nostalgia. 😜 It makes me feel like I’m a student again.
+
+Time flies. Just an old man talking about the past.
