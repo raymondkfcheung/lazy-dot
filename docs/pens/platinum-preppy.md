@@ -1,6 +1,6 @@
 # Platinum Preppy
 
-I bought a Platinum Preppy a few years ago. It’s the yellow one with a fine nib. I inked it and tried some sample writing, but it wasn’t smooth. It felt quite scratchy (even on Moleskine), so I gave up on it. 
+I bought a Platinum Preppy a few years ago. It’s the yellow one with a fine nib. I inked it and tried some sample writing, but it wasn’t smooth. It felt quite scratchy, even on a Moleskine notebook, so I gave up on it. 
 
 I picked it up again recently, but it had already dried out. I flushed it to clean the feed, but still had no luck.
 
