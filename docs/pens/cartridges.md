@@ -8,6 +8,7 @@
 |-----|-----------|--------------|
 | Baoer 801 | 2.4mm Standard | |
 | Jinhao 65 | 3.4mm Bore | Parker |
+| Jinhao X159 | 2.4mm Standard | |
 | Kaweco | 2.4mm Standard | |
 | Lamy | 3.3mm Lamy | |
 | Montblanc | 2.4mm Standard | |
