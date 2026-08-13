@@ -1,7 +1,7 @@
 # Wing Sung 3010
 
-Wing Sung 3010 is a practical pen, whic I use everyday. I bought two blue transparent with fine nibs. the design is good as I like transparent or demo pens.
+Wing Sung 3010 is a practical pen that I use every day. I bought two blue transparent ones with fine nibs. I like the design, as I’m a fan of transparent or demonstrator pens.
 
-the main problem is QC for Wing Sung, also Jinhao and Baoer. some are good but not all are decent. it’s challenging to get one good but the next one isnt. two Wing Sung pens are slightly different. the first one is better but in general both are good. maybe I use mainly one so the I keep using is more smooth than other one.
+The main issue with Wing Sung, as well as Jinhao and Baoer, is QC. Some pens are really good, but not all of them are consistent. It can be a bit of a gamble to get a good one, and even two pens of the same model can be slightly different. My two Wing Sung 3010s are slightly different too. The first one is better, but in general, both are good. It could also be because I use one of them more often, so the nib has become smoother with use.
 
-in general the reviews are good. I tried no dry out or hard start. working well with Parker Quink Black and also Parker cartridges. the nib can swap with Lamy ones but it doesn’t share the same cartridge with Lamy. official it’s with 3.4mm bore cartridges. 
+Overall, the reviews are good. I haven’t experienced any drying out or hard starts. It works well with Parker Quink Black and Parker cartridges. The nib can also be swapped with Lamy nibs, although it doesn’t use the same cartridges as Lamy. Officially, it uses cartridges with a 3.4 mm bore.
