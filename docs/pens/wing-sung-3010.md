@@ -9,4 +9,5 @@ Overall, the reviews are good. I haven’t experienced any drying out or hard st
 ## Reviews
 
 - [Unsharpen: What Cartridges Fit Wing Sung Fountain Pens?](https://unsharpen.com/cartridges-wing-sung-fountain-pens/)
+- [Unsharpen: Wing Sung 3010 Fountain Pen](https://unsharpen.com/pen/wing-sung-3010-fountain-pen/)
 
