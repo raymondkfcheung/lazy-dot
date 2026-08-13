@@ -9,3 +9,8 @@ Then I emptied the pen, gave it a thorough cleaning, and filled it with a new in
 Originally, I thought it might be related to the ink. However, Hero Red works well in my Hero 007. The original Platinum Yellow ink I used in the Preppy also writes well in my Waterman Allure.
 
 So I have no idea what’s wrong with the Preppy, and I’ve given up on it.
+
+## Reviews
+
+- [JetPens: Platinum Preppy: A Comprehensive Guide](https://www.jetpens.com/blog/Platinum-Preppy-A-Comprehensive-Guide/pt/117)
+
