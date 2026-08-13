@@ -13,4 +13,5 @@ So I have no idea what’s wrong with the Preppy, and I’ve given up on it.
 ## Reviews
 
 - [JetPens: Platinum Preppy: A Comprehensive Guide](https://www.jetpens.com/blog/Platinum-Preppy-A-Comprehensive-Guide/pt/117)
+- [Unsharpen: Platinum Preppy Fountain Pen](https://unsharpen.com/pen/platinum-preppy-fountain-pen/)
 
