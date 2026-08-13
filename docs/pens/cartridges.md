@@ -1,14 +1,15 @@
 # Ink Cartridges
 
 - [FPN: Short International Cartridge Physical Characteristics](https://www.fountainpennetwork.com/forum/topic/343828-short-international-cartridge-physical-characteristics/)
+- [Reddit: Which fountain pens use which ink cartridges?](https://www.reddit.com/r/fountainpens/comments/18g7ii3/which_fountain_pens_use_which_ink_cartridges_is/)
 - [Unsharpen: Fountain Pen Cartridge Guide](https://unsharpen.com/fountain-pen-cartridge-guide/)
 - [Unsharpen: What Cartridges Fit Wing Sung Fountain Pens?](https://unsharpen.com/cartridges-wing-sung-fountain-pens/)
 
 | Pen | Cartridge | Alternatives |
 |-----|-----------|--------------|
-| Baoer 801 | 2.4mm Standard | |
+| Baoer 801 | 2.6mm Bore | |
 | Jinhao 65 | 3.4mm Bore | Parker |
-| Jinhao X159 | 2.4mm Standard | |
+| Jinhao X159 | 2.6mm Bore | |
 | Kaweco | 2.4mm Standard | |
 | Lamy | 3.3mm Lamy | |
 | Montblanc | 2.4mm Standard | |
