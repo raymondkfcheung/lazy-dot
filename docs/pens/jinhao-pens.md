@@ -7,3 +7,12 @@ The second one is the Jinhao 65 Black with an extra-fine (EF) nib. I bought it b
 The third one is the Jinhao X159 Red with a #8 nib. It’s a clone or inspired by the Montblanc 149. I wanted to try a pen with a larger nib, so I grabbed one. Like the other pens, it can hard-start if it sits unused for too long. Since the pen is quite large, I mainly use it at my desk rather than carrying it around. I don’t use it every day. It’s good for signatures or calligraphy.
 
 My next additions might be the Jinhao 20 or Jinhao 80, but I’m still thinking about it.
+
+## Reviews
+
+- [Doodlebud: Jinhao Lineup](https://youtu.be/UkmvNaRQYm4)
+- [Doodlebud: Jinhao 20](https://youtu.be/p04u2W67bh0)
+- [Doodlebud: Jinhao X159](https://youtu.be/IgUCowOP114)
+- [Inkquiring Minds: Jinhao 80](https://youtu.be/x5uZkfOvTto)
+- [JG3 Reviews: Baoer 801](https://youtu.be/ySeGGPMttgE)
+- [Mike L: Jinhao 65](https://youtu.be/bqzZ4XLh6_s)
