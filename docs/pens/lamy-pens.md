@@ -1,6 +1,6 @@
 # Lamy Pens
 
-I have a Lamy Joy and an AL-Star, as well as several fake Safari pens. Those are very cheap, and I bought them for a few reasons:
+I have a Lamy Joy and an AL-Star Bronze, as well as several fake Safari pens. Those are very cheap, and I bought them for a few reasons:
 
 1. I can learn how to disassemble and reassemble a fountain pen. Since they are cheap, they are good for experimenting.
 2. I can use them for spare parts. Most of the parts are interchangeable with the original ones.
