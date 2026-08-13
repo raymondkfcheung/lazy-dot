@@ -14,3 +14,8 @@ However, there are some catches:
 Anyway, the fake pens are mainly for experimenting, while my original Lamy pens are for writing. I wish I could get a Lamy retractable fountain pen later, but it’s quite expensive.
 
 Many people say the Lamy 2000 is a must-have pen. Maybe I should buy one later. For now, though, I can afford a Jinhao 80. I’m not sure whether I should buy this knockoff or not. Maybe I will… maybe I won’t.
+
+## Reviews
+
+- [Guolet Pens: Lamy AL-Star, Safari and Vista](https://youtu.be/eV3cLuyqIJs(
+- [sbrebrown: Lamy Joy](https://youtu.be/i23eOXVCzGs)
