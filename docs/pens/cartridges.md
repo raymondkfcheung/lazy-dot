@@ -10,7 +10,7 @@
 | [Cerruti 1881](cerruti-1881.md) Souvenir (Laban) | 2.4mm Standard short |
 | Crawford & Black Calligraphy | 3.4mm Bore |
 | Kaweco Perkeo | 2.4mm Standard |
-| [Lamy](lamy-pens.md) AL-star, Joy | 3.3mm Lamy |
+| [Lamy](lamy-pens.md) AL-Star, Joy | 3.3mm Lamy |
 | Montblanc | 2.4mm Standard |
 | Parker Jotter Originals | 3.5mm Parker |
 | [Pilot V5](pilot-v5.md) | 6.0mm Pilot |
