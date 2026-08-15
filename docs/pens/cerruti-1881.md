@@ -1,6 +1,6 @@
 # Cerruti 1881
 
-My second fountain pen was a souvenir pen from Cerruti 1881, which might have been made by Laban. It took me a long while to find out that it was most likely made by Laban, but that’s still just a guess—I’m not 100% sure.
+My third fountain pen was a souvenir pen from Cerruti 1881, which might have been made by Laban. It took me a long while to find out that it was most likely made by Laban, but that’s still just a guess—I’m not 100% sure.
 
 It had been sitting unused for a long time, so I wanted to bring it back to life. But at the time, I didn’t know which cartridge would fit. So I bought a Parker cartridge from a local supermarket. Of course, it didn’t work.
 
@@ -15,3 +15,11 @@ In the meantime, I bought a Parker Jotter Originals for Parker cartridges and a 
 Then, a few days later, I bought a Kaweco Perkeo and finally proved that the Cerruti uses a short standard cartridge.
 
 It’s quite a long story, but somehow, all these little experiments brought me back to fountain pens.
+
+## Update 2026-08-14
+
+Tried inking the Cerruti 1881 pen with Pelikan 4001 Turquoise, and it seems to have come back to life. But I’m not sure whether adding a few drops of ink to the feed helped, or whether all the cleaning I did made the difference. I really don’t know.
+
+Anyway, it has managed to write three pages so far. I’ll keep monitoring it and see how it goes.
+
+
