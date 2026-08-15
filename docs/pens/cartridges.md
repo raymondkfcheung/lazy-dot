@@ -13,7 +13,7 @@
 | [Lamy](lamy-pens.md) AL-Star, Joy | 3.3mm Lamy |
 | Montblanc | 2.4mm Standard |
 | Parker Jotter Originals | 3.5mm Parker |
-| [Pilot V5](pilot-v5.md) | 6.0mm Pilot |
+| [Pilot Hi-Tecpoint V5](pilot-v5.md) | 6.0mm Pilot |
 | [Platinum Preppy](platinum-preppy.md) | 4.1mm Platinum |
 | Unnamed Retractable | 3.4mm Bore |
 | Waterman Allure | 2.4mm Standard |
