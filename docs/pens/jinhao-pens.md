@@ -8,7 +8,7 @@ The first Jinhao pen I got is the Baoer 801 Silver Steel with a fine nib, which 
 
 ## Jinhao 65
 
-The second one is the Jinhao 65 Black with an extra-fine nib. I bought it because I wanted an EF nib that is compatible with Lamy nibs. It’s kind of okay, but I prefer using the Baoer 801 or [Wing Sung 3010](wing-sung-3010.md).
+The second one is the Jinhao 65 Black with an extra-fine nib, which is cloned of Lamy CP1. I bought it because I wanted an EF nib that is compatible with Lamy nibs. It’s kind of okay, but I prefer using the Baoer 801 or [Wing Sung 3010](wing-sung-3010.md).
 
 ## Jinhao X159
 
