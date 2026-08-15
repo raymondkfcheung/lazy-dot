@@ -21,7 +21,7 @@
 | [Platinum Preppy](platinum-preppy.md) | 4.1mm Platinum |
 | Unnamed Brass | 3.4mm Bore |
 | [Unnamed Naginata](naginata-togi.md)| 3.4mm Bore |
-| Unnamed Retractable | ? |
+| Unnamed Retractable | 3.4mm Bore |
 | Waterman | 2.4mm Standard |
 | [Wing Sung 3010](wing-sung-3010.md)| 3.4mm Bore |
 
