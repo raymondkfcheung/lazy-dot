@@ -9,8 +9,8 @@
 |-----|-----------|
 | [Baoer 801](jinhao-pens.md#baoer-801) | 2.6mm Bore |
 | [Cerruti 1881](cerruti-1881.md) (Laban) | 2.4mm Standard short |
-| Crawford & Black Calligraphy | 3.4mm Bore
-| Cloned Lamy Safari | 3.4mm Bore |
+| Chren 810 (Lamy Safari Clone) | 3.4mm Bore |
+| Crawford & Black Calligraphy | 3.4mm Bore |
 | [Jinhao 65](jinhao-pens.md#jinhao-65) | 3.4mm Bore |
 | [Jinhao X159](jinhao-pens.md#jinhao-x159) | 2.6mm Bore |
 | Kaweco | 2.4mm Standard |
@@ -24,6 +24,7 @@
 | Unnamed Retractable | 3.4mm Bore |
 | Waterman | 2.4mm Standard |
 | [Wing Sung 3010](wing-sung-3010.md)| 3.4mm Bore |
+| Yiren 565 (Lamy Safari Clone) | 3.4mm Bore |
 
 | Cartridge | Alternatives |
 |-----------|--------------|
