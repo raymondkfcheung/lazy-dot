@@ -5,13 +5,16 @@
 - Hero Black
 - Hero Red
 - Jinhao Black
+- Jinhao Blue
 - Karkos Green
 - Karkos Orange
 - Lamy Blue
-- Kaweco Blue
 - Kaweco Caramel Brown
+- Kaweco Royal Blue
+- Montblanc Black
 - Parker Quink Black
 - Pelikan 4001 Tukis Torqoise
+- Pilot Blue
 - Platinum Yellow
 - Waterman Mysterious Blue
 - Waterman Tender Purple
