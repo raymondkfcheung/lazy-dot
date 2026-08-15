@@ -5,3 +5,4 @@
 - Karkos Green
 - Karkos Orange
 - Parker Quink Black
+- Platinum Yellow
