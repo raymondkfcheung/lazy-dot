@@ -17,3 +17,7 @@ Maybe I should just save some money and buy the original Sailor with a Naginata 
 I gave the unnamed pen with the Naginata nib another try. This time, it worked a little better with Hero Red, and I was able to write more slowly without as much skipping. Maybe the previous inks, Markos Green and Parker Quink Black, just aren’t a good match for this nib.
 
 The AI agents suggested trying Pelikan 4001 for better results, or perhaps Sailor ink. The catch is that I’ll need to keep using the pen regularly or clean it afterwards to avoid clogging.
+
+## Reviews
+
+- [sbrebrown: Inexpensive Naginata Nib Review](https://www.youtube.com/watch?v=TCY4n8KOXzE)
