@@ -8,7 +8,7 @@
 | Pen | Cartridge | 
 |-----|-----------|
 | Baoer 801 | 2.6mm Bore |
-| Cerruti 1881 (Laban) | 2.4mm Standard |
+| Cerruti 1881 (Laban) | 2.4mm Standard short |
 | Jinhao 65 | 3.4mm Bore |
 | Jinhao X159 | 2.6mm Bore |
 | Kaweco | 2.4mm Standard |
@@ -16,9 +16,11 @@
 | Montblanc | 2.4mm Standard |
 | Parker | 3.5mm Parker |
 | Platinum | 4.1mm Platinum |
+| Unnamed Naginata | 3.4mm Bore |
 | Waterman | 2.4mm Standard |
 | Wing Sung 3010 | 3.4mm Bore |
 
 | Cartridge | Alternatives |
 |-----------|--------------|
-| 3.4mm Bore | Parker |
+| 2.4mm Standard | 2.6mm Bore (some) |
+| 3.4mm Bore | Parker (some), Parker mini |
