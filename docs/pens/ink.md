@@ -13,7 +13,7 @@
 - Kaweco Royal Blue
 - Montblanc Black
 - Parker Quink Black
-- Pelikan 4001 Tukis Torqoise
+- Pelikan 4001 Turkis Turquoise 
 - Pilot Blue
 - Platinum Yellow
 - Waterman Mysterious Blue
