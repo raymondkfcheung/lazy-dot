@@ -15,7 +15,7 @@
 | [Lamy](lamy-pens.md) | 3.3mm Lamy |
 | Montblanc | 2.4mm Standard |
 | Parker | 3.5mm Parker |
-| [Pilot V5](pilot-v5.md)/V7 | 6.5mm Pilot V5/V7 |
+| [Pilot V5](pilot-v5.md)/V7 | 5.0mm Pilot V5/V7 |
 | [Platinum Preppy](platinum-preppy.md) | 4.1mm Platinum |
 | [Unnamed Naginata](naginata-togi.md)| 3.4mm Bore |
 | Waterman | 2.4mm Standard |
