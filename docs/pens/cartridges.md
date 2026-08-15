@@ -12,7 +12,7 @@
 | Jinhao 65 | 3.4mm Bore |
 | Jinhao X159 | 2.6mm Bore |
 | Kaweco | 2.4mm Standard |
-| Lamy | 3.3mm Lamy |
+| [Lamy](lamy-pens.md) | 3.3mm Lamy |
 | Montblanc | 2.4mm Standard |
 | Parker | 3.5mm Parker |
 | Platinum | 4.1mm Platinum |
