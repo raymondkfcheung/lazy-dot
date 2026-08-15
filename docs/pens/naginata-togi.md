@@ -1,6 +1,6 @@
 # Naginata Togi
 
-I bought an unnamed pen with a Naginata Togi nib. Unfortunately, the writing experience is very poor, with a lot of skipping. The ink doesn't flow properly through the nib. I can only use it as a dip pen. Frustrating.
+I bought an unnamed pen with a Naginata nib. Unfortunately, the writing experience is very poor, with a lot of skipping. The ink doesn't flow properly through the nib. I can only use it as a dip pen. Frustrating.
 
 I tried to find a similar pen from well-known brands such as Hongdian, Jinhao, Majohn, or Wing Sung, but had no luck. Alternatively, I could just buy a nib, but since the price of a nib and a complete pen is quite similar, I decided to buy the pen.
 
@@ -10,4 +10,10 @@ Honestly, the nib does give me better control and more character when writing Ch
 
 So, I guess buying pens from unnamed or lesser-known brands is still a bit of a lottery. This pen was even more expensive than the Jinhao pens I've bought before, which makes the disappointment worse.
 
-Maybe I should just save some money and buy the original Sailor with a Naginata Togi nib.
+Maybe I should just save some money and buy the original Sailor with a Naginata Togi.
+
+## Updates 
+
+I gave the unnamed pen with the Naginata nib another try. This time, it worked a little better with Hero Red, and I was able to write more slowly without as much skipping. Maybe the previous inks, Markos Green and Parker Quink Black, just aren’t a good match for this nib.
+
+The AI agents suggested trying Pelikan 4001 for better results, or perhaps Sailor ink. The catch is that I’ll need to keep using the pen regularly or clean it afterwards to avoid clogging.
