@@ -6,5 +6,5 @@
 - Karkos Orange
 - Parker Quink Black
 - Platinum Yellow
-- Waterman Intense Black
+- Waterman Mysterious Blue
 - Waterman Tender Purple
