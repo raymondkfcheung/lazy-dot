@@ -16,7 +16,7 @@ Then, a few days later, I bought a Kaweco Perkeo and finally proved that the Cer
 
 It’s quite a long story, but somehow, all these little experiments brought me back to fountain pens.
 
-## Update 2026-08-14
+## Update: 2026-08-14
 
 Tried inking the Cerruti 1881 pen with Pelikan 4001 Turquoise, and it seems to have come back to life. But I’m not sure whether adding a few drops of ink to the feed helped, or whether all the cleaning I did made the difference. I really don’t know.
 
