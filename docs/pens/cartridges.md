@@ -7,24 +7,27 @@
 
 | Pen | Cartridge | 
 |-----|-----------|
-| [Baoer 801](jinhao-pens.md#baoer-801) | 2.6mm Bore |
 | [Cerruti 1881](cerruti-1881.md) (Laban) | 2.4mm Standard short |
-| Chren 810 (Lamy Safari Clone) | 3.4mm Bore |
 | Crawford & Black Calligraphy | 3.4mm Bore |
-| [Jinhao 65](jinhao-pens.md#jinhao-65) | 3.4mm Bore |
-| [Jinhao X159](jinhao-pens.md#jinhao-x159) | 2.6mm Bore |
 | Kaweco | 2.4mm Standard |
 | [Lamy](lamy-pens.md) | 3.3mm Lamy |
-| [Lanbitou 795 Naginata](naginata-togi.md)| 3.4mm Bore |
 | Montblanc | 2.4mm Standard |
 | Parker | 3.5mm Parker |
 | [Pilot V5](pilot-v5.md) | 6.0mm Pilot |
 | [Platinum Preppy](platinum-preppy.md) | 4.1mm Platinum |
-| Unnamed Brass (Kaweco Brass Sport Clone) | 3.4mm Bore |
 | Unnamed Retractable | 3.4mm Bore |
 | Waterman | 2.4mm Standard |
 | [Wing Sung 3010](wing-sung-3010.md)| 3.4mm Bore |
-| Yiren 565 (Lamy Safari Clone) | 3.4mm Bore |
+
+| Pen | Cloned/Inspired | Cartridge | 
+|-----|-------|-----------|
+| [Baoer 801](jinhao-pens.md#baoer-801) | Parker Vector | 2.6mm Bore |
+| Chren 810 | Lamy Safari | 3.4mm Bore |
+| [Jinhao 65](jinhao-pens.md#jinhao-65) | | 3.4mm Bore |
+| [Jinhao X159](jinhao-pens.md#jinhao-x159) | Montblanc 149 | 2.6mm Bore |
+| [Lanbitou 795 Naginata](naginata-togi.md) | Sailor Naginata Togi | 3.4mm Bore |
+| Unnamed Brass | Kaweco Brass Sport | 3.4mm Bore |
+| Yiren 565 | Lamy Safari | 3.4mm Bore |
 
 | Cartridge | Alternatives |
 |-----------|--------------|
