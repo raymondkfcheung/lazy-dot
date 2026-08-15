@@ -20,4 +20,6 @@ The AI agents suggested trying Pelikan 4001 for better results, or perhaps Sailo
 
 ## Reviews
 
-- [sbrebrown: Inexpensive Naginata Nib Review](https://www.youtube.com/watch?v=TCY4n8KOXzE)
+- [Doodlebugs: Naginata and Fudge](https://youtu.be/9Ry7SmxZI7Y)
+- [Goulet Pen: Sailor Naginata Togi Nibs](https://youtu.be/PQD-P0Cy02o)
+- [sbrebrown: Inexpensive Naginata Nib Review](https://youtu.be/TCY4n8KOXzE)
