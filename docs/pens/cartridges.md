@@ -23,7 +23,7 @@
 |-----|-------|-----------|
 | [Baoer 801](jinhao-pens.md#baoer-801) | Parker Vector | 2.6mm Bore |
 | Chren 810 | Lamy Safari | 3.4mm Bore |
-| [Jinhao 65](jinhao-pens.md#jinhao-65) | | 3.4mm Bore |
+| [Jinhao 65](jinhao-pens.md#jinhao-65) | Lamy CP1| 3.4mm Bore |
 | [Jinhao X159](jinhao-pens.md#jinhao-x159) | Montblanc 149 | 2.6mm Bore |
 | [Lanbitou 795 Naginata](naginata-togi.md) | Sailor Naginata Togi | 3.4mm Bore |
 | Unnamed Brass | Kaweco Brass Sport | 3.4mm Bore |
