@@ -1,6 +1,6 @@
 # Naginata Togi
 
-I bought Lanbitou 795 Black with a Naginata nib. Unfortunately, the writing experience is very poor, with a lot of skipping. The ink doesn't flow properly through the nib. I can only use it as a dip pen. Frustrating.
+I bought Lanbitou 795 Black with a Naginata nib. It looks like a Parker IM, but with a hooded nib. Unfortunately, the writing experience is very poor, with a lot of skipping. The ink doesn't flow properly through the nib. I can only use it as a dip pen. Frustrating.
 
 I tried to find a similar pen from well-known brands such as Hongdian, [Jinhao](jinhao-pens.md), Majohn, or Wing Sung, but had no luck. Alternatively, I could just buy a nib, but since the price of a nib and a complete pen is quite similar, I decided to buy the pen.
 
