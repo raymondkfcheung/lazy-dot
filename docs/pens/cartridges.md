@@ -27,7 +27,7 @@
 | Hero 616/329 | Parker 51 | N/A |
 | [Jinhao 65](jinhao-pens.md#jinhao-65) | Lamy CP1| 3.4mm Bore |
 | [Jinhao X159](jinhao-pens.md#jinhao-x159) | Montblanc 149 | 2.6mm Bore |
-| [Lanbitou 795 Naginata](naginata-togi.md) | Sailor Naginata Togi + Parker IM | 3.4mm Bore |
+| [Lanbitou 795 Naginata](naginata-togi.md) | Sailor Naginata Togi + Parker IM | 3.4mm Bore short |
 | Unnamed Brass | Kaweco Brass Sport | 3.4mm Bore |
 | Yiren 565 | Lamy Safari | 3.4mm Bore |
 
