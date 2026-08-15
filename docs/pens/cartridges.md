@@ -1,4 +1,4 @@
-# Ink Cartridges
+# Pens and Ink Cartridges
 
 - [FPN: Short International Cartridge Physical Characteristics](https://www.fountainpennetwork.com/forum/topic/343828-short-international-cartridge-physical-characteristics/)
 - [Reddit: Which fountain pens use which ink cartridges?](https://www.reddit.com/r/fountainpens/comments/18g7ii3/which_fountain_pens_use_which_ink_cartridges_is/)
@@ -23,6 +23,8 @@
 |-----|-------|-----------|
 | [Baoer 801](jinhao-pens.md#baoer-801) | Parker Vector | 2.6mm Bore |
 | Chren 810 | Lamy Safari | 3.4mm Bore |
+| [Hero 007](hero-007.md) | Parker 51 | N/A |
+| Hero 616/329 | Parker 51 | N/A |
 | [Jinhao 65](jinhao-pens.md#jinhao-65) | Lamy CP1| 3.4mm Bore |
 | [Jinhao X159](jinhao-pens.md#jinhao-x159) | Montblanc 149 | 2.6mm Bore |
 | [Lanbitou 795 Naginata](naginata-togi.md) | Sailor Naginata Togi | 3.4mm Bore |
