@@ -15,12 +15,12 @@
 | [Jinhao X159](jinhao-pens.md#jinhao-x159) | 2.6mm Bore |
 | Kaweco | 2.4mm Standard |
 | [Lamy](lamy-pens.md) | 3.3mm Lamy |
+| [Lanbitou 795 Naginata](naginata-togi.md)| 3.4mm Bore |
 | Montblanc | 2.4mm Standard |
 | Parker | 3.5mm Parker |
 | [Pilot V5](pilot-v5.md) | 6.0mm Pilot |
 | [Platinum Preppy](platinum-preppy.md) | 4.1mm Platinum |
 | Unnamed Brass | 3.4mm Bore |
-| [Unnamed Naginata](naginata-togi.md)| 3.4mm Bore |
 | Unnamed Retractable | 3.4mm Bore |
 | Waterman | 2.4mm Standard |
 | [Wing Sung 3010](wing-sung-3010.md)| 3.4mm Bore |
