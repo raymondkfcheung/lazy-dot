@@ -9,6 +9,7 @@
 |-----|-----------|
 | [Baoer 801](jinhao-pens.md#baoer-801) | 2.6mm Bore |
 | [Cerruti 1881](cerruti-1881.md) (Laban) | 2.4mm Standard short |
+| Crawford & Black Calligraphy | 3.4mm Bore
 | Cloned Lamy Safari | 3.4mm Bore |
 | [Jinhao 65](jinhao-pens.md#jinhao-65) | 3.4mm Bore |
 | [Jinhao X159](jinhao-pens.md#jinhao-x159) | 2.6mm Bore |
