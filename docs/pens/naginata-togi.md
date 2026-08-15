@@ -12,7 +12,7 @@ So, I guess buying pens from unnamed or lesser-known brands is still a bit of a 
 
 Maybe I should just save some money and buy the original Sailor with a Naginata Togi.
 
-## Updates 
+## Update: 2026-08-15
 
 I gave the unnamed pen with the Naginata nib another try. This time, it worked a little better with Hero Red, and I was able to write more slowly without as much skipping. Maybe the previous inks, Karkos Green and Parker Quink Black, just aren’t a good match for this nib.
 
