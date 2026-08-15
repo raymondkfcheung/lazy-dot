@@ -7,3 +7,7 @@ The writing experience is good, and I mainly use it for taking notes and carry i
 Originally, I wanted to buy a Lamy rollerball, but some reviewers suggested trying the Pilot one, so I gave it a try. So far, it’s been perfect for me.
 
 I also tried filling it with Parker Quink Black, and it works well.
+
+## Reviews 
+
+- [Well-Appointed Desk: Pilot Hi-Tecpoint V5](https://www.wellappointeddesk.com/2015/04/review-pilot-hi-tecpoint-v5-cartridge-system/)
