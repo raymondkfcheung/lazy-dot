@@ -18,6 +18,12 @@ I gave the Naginata nib another try. This time, it worked a little better with H
 
 The AI agents suggested trying Pelikan 4001 for better results. Perhaps Sailor ink,  the catch is that I’ll need to keep using the pen regularly or clean it afterwards to avoid clogging.
 
+## Update: 2026-08-16
+
+Tested with Pelikan 4001 Turkis Turquoise. The Lanbitou seems to work better, maybe because of the ink, or maybe because I’ve had more practice. The Naginata nib is tricky. You need to write slowly and softly. Maybe I’m putting too much pressure on it. I need to relax and enjoy the writing.
+
+The good thing is that the pen is working. It’s more suitable for calligraphy than everyday writing. I’m too tired to write much more.
+
 ## Reviews
 
 - [Doodlebugs: Naginata and Fudge](https://youtu.be/9Ry7SmxZI7Y)
