@@ -3,7 +3,7 @@
 - Diamine Deep Dark Green
 - Diamine Deep Dark Red
 - Hero Carbon Black
-- Hero Red
+- Hero 201 Red
 - Jinhao Black
 - Jinhao Blue
 - Karkos Green
