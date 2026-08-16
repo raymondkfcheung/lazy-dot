@@ -20,7 +20,7 @@ The AI agents suggested trying Pelikan 4001 for better results. Perhaps Sailor i
 
 ## Update: 2026-08-16
 
-Tested with Pelikan 4001 Turkis Turquoise. The Lanbitou seems to work better, maybe because of the ink, or maybe because I’ve had more practice. The Naginata nib is tricky. You need to write slowly and softly. Maybe I’m putting too much pressure on it. I need to relax and enjoy the writing.
+Tested with Pelikan 4001 Turkis Turquoise. The Lanbitou seems to work better, maybe because of the ink, or maybe because I’ve had more practice. The Naginata nib is tricky. I need to write slowly and softly. Maybe I’m putting too much pressure on it. I need to relax and enjoy the writing.
 
 The good thing is that the pen is working. It’s more suitable for calligraphy than everyday writing. I’m too tired to write much more.
 
