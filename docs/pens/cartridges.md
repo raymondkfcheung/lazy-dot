@@ -15,6 +15,7 @@
 | Parker Jotter Originals | 3.5mm Parker |
 | [Pilot Hi-Tecpoint V5](pilot-v5.md) | 6.0mm Pilot |
 | [Platinum Preppy](platinum-preppy.md) | 4.1mm Platinum |
+| Uni-ball Eye | N/A |
 | Unnamed Retractable | 3.4mm Bore |
 | Waterman Allure | 2.4mm Standard |
 | [Wing Sung 3010](wing-sung-3010.md)| 3.4mm Bore |
@@ -28,7 +29,6 @@
 | [Jinhao 65](jinhao-pens.md#jinhao-65) | Lamy CP1| 3.4mm Bore |
 | [Jinhao X159](jinhao-pens.md#jinhao-x159) | Montblanc 149 | 2.6mm Bore |
 | [Lanbitou 795 Naginata](naginata-togi.md) | Sailor Naginata Togi + Parker IM | 3.4mm Bore short |
-| Uni-ball Eye | N/A |
 | Unnamed Brass | Kaweco Brass Sport | 3.4mm Bore |
 | Yiren 565 | Lamy Safari | 3.4mm Bore |
 
