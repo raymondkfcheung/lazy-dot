@@ -24,6 +24,10 @@ Tested with Pelikan 4001 Turkis Turquoise. The Lanbitou seems to work better, ma
 
 The good thing is that the pen is working. It’s more suitable for calligraphy than everyday writing. I’m too tired to write much more.
 
+## Update: 2026-08-19
+
+Retested with Hero Red in the Lanbitou, and the performance was poor. The red ink doesn’t flow properly, unlike in the Hero 007 and Jinhao 65. This proves that the ink does affect the writing experience.
+
 ## Reviews
 
 - [Doodlebugs: Naginata and Fudge](https://youtu.be/9Ry7SmxZI7Y)
