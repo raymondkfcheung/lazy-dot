@@ -9,6 +9,7 @@
 - [魏碑方筆講解](https://m.bilibili.com/video/BV147411M7TP/)
 - [魏碑元楨墓誌](https://m.bilibili.com/video/BV14z421C7Wc/)
 - [魏碑李壁墓志](https://m.bilibili.com/video/BV1bJ411y7Bt)
+- [魏碑李壁墓志 - 臨摹](https://m.bilibili.com/video/BV1vzDgY9ETG)
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
 - [魏碑張黑女墓志](https://m.bilibili.com/video/BV1az421k72H/)
 - [魏碑張猛龍碑](https://m.bilibili.com/video/BV14i421o78K/)
