@@ -9,6 +9,7 @@
 - [魏碑臨習與筆法研究](https://m.bilibili.com/video/BV1Lt42187MF/)
   - 元倪墓志
   - 司馬悅墓志
+  - 元暉墓志
 - [魏碑元楨墓志 - 臨摹](https://m.bilibili.com/video/BV14z421C7Wc/)
 - [魏碑李璧墓志](https://m.bilibili.com/video/BV1bJ411y7Bt)
   - 01 說臨帖：壟、義、遷、缺、滅、聲、辭、魂、泗、飛、教、條、心、昭、鸞、登、分、披、哀、蕃、遊、來、冀、鼎、樣、恊、乘、風、岱、聳
