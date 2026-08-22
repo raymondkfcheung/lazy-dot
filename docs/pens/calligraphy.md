@@ -10,7 +10,7 @@
 - [魏碑元楨墓誌](https://m.bilibili.com/video/BV14z421C7Wc/)
 - [魏碑李璧墓志](https://m.bilibili.com/video/BV1bJ411y7Bt)
   - 01 說臨帖：壟、義、遷、缺、滅、聲、辭、魂、泗、飛、教、條、心、昭、鸞、登、分、披、哀、蕃、遊、來、冀、鼎、樣、恊、乘、風、岱、聳
-  - 02 方筆點
+  - 02 方筆點：心、冀、對、海、蕃、啓、護、登、窮、鋼、荊、飛
 - [魏碑李璧墓志 - 臨摹](https://m.bilibili.com/video/BV1vzDgY9ETG)
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
 - [魏碑張黑女墓志](https://m.bilibili.com/video/BV1az421k72H/)
