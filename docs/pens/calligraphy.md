@@ -45,3 +45,4 @@
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
 - [魏碑張玄墓志](https://m.bilibili.com/video/BV1az421k72H/)
 - [魏碑張猛龍碑](https://m.bilibili.com/video/BV14i421o78K/)
+- [魏碑張猛龍碑 - 臨摹](https://youtu.be/gcpww6U6mDs)：金，織、所、致、樂、慕、孝、莭、當、儕、長、以、慙、
