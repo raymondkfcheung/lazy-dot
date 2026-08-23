@@ -43,5 +43,5 @@
   - [24 創作總結](https://m.bilibili.com/video/BV1bJ411y7Bt?p=24)
 - [魏碑李璧墓志 - 臨摹](https://m.bilibili.com/video/BV1vzDgY9ETG)
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
-- [魏碑張黑女墓志](https://m.bilibili.com/video/BV1az421k72H/)
+- [魏碑張玄墓志](https://m.bilibili.com/video/BV1az421k72H/)
 - [魏碑張猛龍碑](https://m.bilibili.com/video/BV14i421o78K/)
