@@ -26,6 +26,7 @@
 | Chren 810 | Lamy Safari | 3.4mm Bore |
 | [Hero 007](hero-007.md) | Parker 51 | N/A |
 | Hero 616/329 | Parker 51 | N/A |
+| Jinhao 20 | Pilot Capless | 6.0mm Pilot |
 | [Jinhao 65](jinhao-pens.md#jinhao-65) | Lamy CP1| 3.4mm Bore |
 | [Jinhao X159](jinhao-pens.md#jinhao-x159) | Montblanc 149 | 2.6mm Bore |
 | [Lanbitou 795 Naginata](naginata-togi.md) | Sailor Naginata Togi + Parker IM | 3.4mm Bore short |
