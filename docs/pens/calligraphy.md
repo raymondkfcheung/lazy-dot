@@ -21,26 +21,26 @@
   - [02 方筆點](https://m.bilibili.com/video/BV1bJ411y7Bt?p=2)：心、冀、對、海、蕃、啓、護、登、窮、鋼、荊、飛
   - [03 圓筆點](https://m.bilibili.com/video/BV1bJ411y7Bt?p=3)：參、乘、岱、鼎、海丶兼、督、劍、淵、為、儻、游
   - [04 橫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
-  - 05 豎、撇
-  - 06 方筆捺
-  - 07 圓筆捺
-  - 08 方筆正鈎
-  - 09 方筆反鈎
-  - 10 圓筆正鈎
-  - 11 折、異形筆畫
-  - 12 強攻工整結構
-  - 13 強攻動態結構
-  - 14 強攻難點部首
-  - 15 強攻精彩之字
-  - 16 筆速和墨法
-  - 17 章法節奏
-  - 18 選臨與通臨
-  - 19 意臨方法
-  - 20 集字創作(一)
-  - 21 集字創作(二)
-  - 22 集字創作(三)
-  - 23 命題創作
-  - [24 創作總結]
+  - [05 豎、撇](https://m.bilibili.com/video/BV1bJ411y7Bt?p=5)
+  - [06 方筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [07 圓筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [08 方筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [09 方筆反鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [10 圓筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [11 折、異形筆畫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [12 強攻工整結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [13 強攻動態結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [14 強攻難點部首](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [15 強攻精彩之字](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [16 筆速和墨法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [17 章法節奏](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [18 選臨與通臨](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [19 意臨方法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [20 集字創作(一)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [21 集字創作(二)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [22 集字創作(三)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [23 命題創作](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)
+  - [24 創作總結](https://m.bilibili.com/video/BV1bJ411y7Bt?p=24)
 - [魏碑李璧墓志 - 臨摹](https://m.bilibili.com/video/BV1vzDgY9ETG)
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
 - [魏碑張黑女墓志](https://m.bilibili.com/video/BV1az421k72H/)
