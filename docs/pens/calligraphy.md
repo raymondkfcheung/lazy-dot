@@ -31,7 +31,7 @@
   - [12 強攻工整結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=12)
   - [13 強攻動態結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=13)
   - [14 強攻難點部首](https://m.bilibili.com/video/BV1bJ411y7Bt?p=14)
-  - [15 強攻精彩之字](https://m.bilibili.com/video/BV1bJ411y7Bt?p=15)：
+  - [15 強攻精彩之字](https://m.bilibili.com/video/BV1bJ411y7Bt?p=15)
     - 海、飛、聳、湄、窮、蕭、是、零
     - 放、分、泗、聞、缺、體、遷、遊
     - 撫、裁、廣、勢、猷、鋼、滅、身
