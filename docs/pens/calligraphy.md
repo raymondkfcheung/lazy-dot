@@ -44,8 +44,20 @@
   - [18 選臨與通臨](https://m.bilibili.com/video/BV1bJ411y7Bt?p=18)
   - [19 意臨方法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=19)
   - [20 集字創作(一)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=20)：見賢思齊
-  - [21 集字創作(二)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=21)：疾風過齊魯、靡葉已蕭零、遙望山分野、曙陽傾廣陵
-  - [22 集字創作(三)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=22)：千里尋蘭去、南庭妙絕倫、華傳清韻遠、竹潛和風存、秋氣浮江岸、春雲降海魂、歸與戚人道、羈思獨不群
+  - [21 集字創作(二)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=21)
+    - 疾風過齊魯
+    - 靡葉已蕭零
+    - 遙望山分野
+    - 曙陽傾廣陵
+  - [22 集字創作(三)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=22)
+    - 千里尋蘭去
+    - 南庭妙絕倫
+    - 華傳清韻遠
+    - 竹潛和風存
+    - 秋氣浮江岸
+    - 春雲降海魂
+    - 歸與戚人道
+    - 羈思獨不群
   - [23 命題創作](https://m.bilibili.com/video/BV1bJ411y7Bt?p=23)
   - [24 創作總結](https://m.bilibili.com/video/BV1bJ411y7Bt?p=24)
 - [魏碑李璧墓志 - 臨摹](https://m.bilibili.com/video/BV1vzDgY9ETG)
