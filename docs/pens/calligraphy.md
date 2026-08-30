@@ -22,7 +22,7 @@
   - [03 圓筆點](https://m.bilibili.com/video/BV1bJ411y7Bt?p=3)：參、乘、岱、鼎、海丶兼、督、劍、淵、為、儻、游
   - [04 橫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)：一、書、孟、三、女、翼、望、群、桑、善、辭、義、章、蕭
   - [05 豎、撇](https://m.bilibili.com/video/BV1bJ411y7Bt?p=5)：十、中、出、性、融、修、魁、廿、鋼、辭、兩、軍、華、連、八、和、乘、以、鎮、沉、零、失、太、沉、亥、零、振
-  - [06 方筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=6)
+  - [06 方筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=6)：毅、分、八、養、遷、缺、遷、入、譽、養、毅、分、牧、遷、遊、之、八、登、修、妖、缺、譽、楚、復、遠、遊、遊、遠、養、入、從、獻、陰、遷、庭、道、還
   - [07 圓筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=7)
   - [08 方筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=8)
   - [09 方筆反鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=9)
