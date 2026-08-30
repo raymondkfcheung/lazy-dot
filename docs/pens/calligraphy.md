@@ -25,7 +25,7 @@
   - [06 方筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=6)：毅、分、八、養、遷、缺、遷、入、譽、養、毅、分、牧、遷、遊、之、八、登、修、妖、缺、譽、楚、復、遠、遊、遊、遠、養、入、從、獻、陰、遷、庭、道、還
   - [07 圓筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=7)：賢、叛、史、教、散、道、長、求、尺、是、長、參、大、文、護、遷、聳、外
   - [08 方筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=8)：子、椽、掾、擊、淵、州、附、別、才、求、將、堈、協、內、勾、傾、聞、閑
-  - [09 方筆反鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=9)
+  - [09 方筆反鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=9)：心、裁、義、戎、機、龜、魂、先、悦、地、魁、兆、親、光、沉、勢、風、氣、飛
   - [10 圓筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=10)
   - [11 折、異形筆畫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=11)
   - [12 強攻工整結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=12)
