@@ -21,7 +21,7 @@
   - [02 方筆點](https://m.bilibili.com/video/BV1bJ411y7Bt?p=2)：心、冀、對、海、蕃、啓、護、登、窮、鋼、荊、飛
   - [03 圓筆點](https://m.bilibili.com/video/BV1bJ411y7Bt?p=3)：參、乘、岱、鼎、海丶兼、督、劍、淵、為、儻、游
   - [04 橫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)：一、書、孟、三、女、翼、望、群、桑、善、辭、義、章、蕭
-  - [05 豎、撇](https://m.bilibili.com/video/BV1bJ411y7Bt?p=5)
+  - [05 豎、撇](https://m.bilibili.com/video/BV1bJ411y7Bt?p=5)：十、中、出、性、融、修、魁、廿、鋼、辭、兩、軍、華、連
   - [06 方筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=6)
   - [07 圓筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=7)
   - [08 方筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=8)
