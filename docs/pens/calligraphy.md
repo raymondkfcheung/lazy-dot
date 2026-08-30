@@ -27,7 +27,7 @@
   - [08 方筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=8)：子、椽、掾、擊、淵、州、附、別、才、求、將、堈、協、內、勾、傾、聞、閑
   - [09 方筆反鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=9)：心、裁、義、戎、機、龜、魂、先、悦、地、魁、兆、親、光、沉、勢、風、氣、飛
   - [10 圓筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=10)：郎、芳、東、存、海、而、馭、傳、薄、呼、駕、陽、散、閣、閣、為、賊、都、李、樂、希、郡、別、陽、鐫
-  - [11 折、異形筆畫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=11)
+  - [11 折、異形筆畫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=11)：方、之、女、史、心、也、國、月、用
   - [12 強攻工整結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=12)
   - [13 強攻動態結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=13)
   - [14 強攻難點部首](https://m.bilibili.com/video/BV1bJ411y7Bt?p=14)
