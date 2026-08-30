@@ -36,7 +36,7 @@
   - [17 章法節奏](https://m.bilibili.com/video/BV1bJ411y7Bt?p=17)
   - [18 選臨與通臨](https://m.bilibili.com/video/BV1bJ411y7Bt?p=18)
   - [19 意臨方法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=19)
-  - [20 集字創作(一)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=20)
+  - [20 集字創作(一)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=20)：見賢思齊
   - [21 集字創作(二)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=21)
   - [22 集字創作(三)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=22)
   - [23 命題創作](https://m.bilibili.com/video/BV1bJ411y7Bt?p=23)
