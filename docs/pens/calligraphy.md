@@ -30,7 +30,7 @@
   - [11 折、異形筆畫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=11)：方、之、女、史、心、也、國、月、用
   - [12 強攻工整結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=12)：典、軍、上、賓、譽、亥、督、竝、地、聳、養
   - [13 強攻動態結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=13)
-  - [14 強攻難點部首](https://m.bilibili.com/video/BV1bJ411y7Bt?p=14)
+  - [14 強攻難點部首](https://m.bilibili.com/video/BV1bJ411y7Bt?p=14)：州、擊、佛、東、戚、戎、龜、先、遞、道、泗、潯、荊、敬、篤、葉、散、薄
   - [15 強攻精彩之字](https://m.bilibili.com/video/BV1bJ411y7Bt?p=15)
     - 海、飛、聳、湄、窮、蕭、是、零
     - 放、分、泗、聞、缺、體、遷、遊
