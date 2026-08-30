@@ -31,7 +31,14 @@
   - [12 強攻工整結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=12)
   - [13 強攻動態結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=13)
   - [14 強攻難點部首](https://m.bilibili.com/video/BV1bJ411y7Bt?p=14)
-  - [15 強攻精彩之字](https://m.bilibili.com/video/BV1bJ411y7Bt?p=15)
+  - [15 強攻精彩之字](https://m.bilibili.com/video/BV1bJ411y7Bt?p=15)：
+    - 海、飛、聳、湄、窮、蕭、是、零
+    - 放、分、泗、聞、缺、體、遷、遊
+    - 撫、裁、廣、勢、猷、鋼、滅、身
+    - 賊、别、望、傾、義、鐫、靡、增
+    - 護、陽、督、李、涌、芳、心、無
+    - 翼、冀、東、公、學、竝、勾、牘
+    - 氣、州、聞、沉、儻、轉、州、馬
   - [16 筆速和墨法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=16)
   - [17 章法節奏](https://m.bilibili.com/video/BV1bJ411y7Bt?p=17)
   - [18 選臨與通臨](https://m.bilibili.com/video/BV1bJ411y7Bt?p=18)
