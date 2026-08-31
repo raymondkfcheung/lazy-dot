@@ -40,7 +40,7 @@
     - 翼、冀、東、公、學、竝、勾、牘
     - 氣、州、聞、沉、儻、轉、州、馬
   - [16 筆速和墨法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=16)：北、魏、聳、八、國、蕭、滅、缺、鼎、泗、員、靡、傾、召、鑒、銘、公、督、丘、謠、賊、召、華、心、勢、遊、兼、飛
-  - [17 章法節奏](https://m.bilibili.com/video/BV1bJ411y7Bt?p=17)
+  - [17 章法節奏](https://m.bilibili.com/video/BV1bJ411y7Bt?p=17)：泗、養、翼、竝、沉、哀、年、是、栖、遊、員、亡、出、北、以、荷、鸞、內、子、樇
   - [18 選臨與通臨](https://m.bilibili.com/video/BV1bJ411y7Bt?p=18)
   - [19 意臨方法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=19)
   - [20 集字創作(一)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=20)：見賢思齊
