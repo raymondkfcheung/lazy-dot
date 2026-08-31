@@ -6,6 +6,7 @@
 - [草書初階](https://m.bilibili.com/video/BV1Y8411K7sF/)
 - [怎樣學魏碑楷書](http://www.yac8.com/wap/news/6680.html)
 - [魏碑方筆講解](https://m.bilibili.com/video/BV147411M7TP/)
+- [魏碑的切翻之法](https://kknews.cc/culture/62og3g3.html)
 - [魏碑臨習與筆法研究](https://m.bilibili.com/video/BV1Lt42187MF/)
   - 元倪墓志
   - 司馬悅墓志
