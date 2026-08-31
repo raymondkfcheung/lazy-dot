@@ -42,7 +42,7 @@
   - [16 筆速和墨法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=16)：北、魏、聳、八、國、蕭、滅、缺、鼎、泗、員、靡、傾、召、鑒、銘、公、督、丘、謠、賊、召、華、心、勢、遊、兼、飛
   - [17 章法節奏](https://m.bilibili.com/video/BV1bJ411y7Bt?p=17)：泗、養、翼、竝、沉、哀、年、是、栖、遊、員、亡、出、北、以、荷、鸞、內、子、樇
   - [18 選臨與通臨](https://m.bilibili.com/video/BV1bJ411y7Bt?p=18)：獻、贊、槐、庭、風、輝、天、閣、雖、希、逸、之、优、廣、陵、無、以、過、也、天、道、芒、昧、報、善、無、聞、不、幸、遘、疾、春、坐、使、諸、王、情、深、面、尋、丁、難、窮、沉、哀、鄉、地、栖、遊、漳、里、廿、餘、年、是、故、零
-  - [19 意臨方法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=19)
+  - [19 意臨方法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=19)：冀、淵
   - [20 集字創作(一)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=20)：見賢思齊
   - [21 集字創作(二)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=21)
     - 疾風過齊魯
