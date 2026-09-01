@@ -27,7 +27,7 @@
   - [07 圓筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=7)：賢、叛、史、教、散、道、長、求、尺、是、長、參、大、文、護、遷、聳、外
   - [08 方筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=8)：子、椽、掾、擊、淵、州、附、別、才、求、將、堈、協、內、勾、傾、聞、閑
   - [09 方筆反鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=9)：心、裁、義、戎、機、龜、魂、先、悦、地、魁、兆、親、光、沉、勢、風、氣、飛
-  - [10 圓筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=10)：郎、芳、東、存、海、而、馭、傳、薄、呼、駕、陽、散、閣、閣、為、賊、都、李、樂、希、郡、別、陽、鐫
+  - [10 圓筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=10)：郎、芳、東、存、海、而、馭、傳、薄、呼、駕、陽、散、省、閣、為、賊、都、李、樂、希、郡、別、陽、鐫
   - [11 折、異形筆畫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=11)：兼、回、召、傾、為、兩、母、月、員、當、聞、召
   - [12 強攻工整結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=12)：方、之、女、史、心、也、國、月、用
   - [13 強攻動態結構](https://m.bilibili.com/video/BV1bJ411y7Bt?p=13)：典、軍、上、賓、譽、亥、督、竝、地、聳、養
