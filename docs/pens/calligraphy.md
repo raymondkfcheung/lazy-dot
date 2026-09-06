@@ -61,7 +61,9 @@
     - 羈思獨不群
   - [23 命題創作](https://m.bilibili.com/video/BV1bJ411y7Bt?p=23)
   - [24 創作總結](https://m.bilibili.com/video/BV1bJ411y7Bt?p=24)
-- [魏碑李璧墓志 - 臨摹](https://m.bilibili.com/video/BV1vzDgY9ETG)
+- 魏碑李璧墓志 - 臨摹
+  - [01 昭](https://www.bilibili.com/video/BV1vzDgY9ETG)
+  - [02 飛](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
 - [魏碑張玄墓志](https://m.bilibili.com/video/BV1az421k72H/)
 - [魏碑張猛龍碑](https://m.bilibili.com/video/BV14i421o78K/)
