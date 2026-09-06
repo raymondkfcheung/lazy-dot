@@ -64,6 +64,9 @@
 - 魏碑李璧墓志 - 臨摹
   - [01 昭](https://www.bilibili.com/video/BV1vzDgY9ETG)
   - [02 飛](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
+  - [03 尚](https://www.bilibili.com/video/BV1TP4y1j7cS)
+  - [04 州](https://www.bilibili.com/video/BV1av411T753)
+  - [05 獻](https://www.bilibili.com/video/BV1EQ4y1S7C4)
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
 - [魏碑張玄墓志](https://m.bilibili.com/video/BV1az421k72H/)
 - [魏碑張猛龍碑](https://m.bilibili.com/video/BV14i421o78K/)
