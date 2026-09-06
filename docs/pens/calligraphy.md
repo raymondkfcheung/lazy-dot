@@ -20,11 +20,11 @@
 - 魏碑李璧墓志
   - [01 說臨帖](https://m.bilibili.com/video/BV1bJ411y7Bt)：壟、義、遷、缺、滅、聲、辭、魂、泗、飛、教、條、心、昭、鸞、登、分、披、哀、蕃、遊、來、冀、鼎、樣、恊、乘、風、岱、聳
   - [02 方筆點](https://m.bilibili.com/video/BV1bJ411y7Bt?p=2)：心、冀、對、海、蕃、啓、護、登、窮、堈、荊、飛
-  - [03 圓筆點](https://m.bilibili.com/video/BV1bJ411y7Bt?p=3)：參、乘、岱、鼎、海丶兼、督、劍、淵、為、儻、游
+  - [03 圓筆點](https://m.bilibili.com/video/BV1bJ411y7Bt?p=3)：叅、乘、岱、鼎、海丶兼、督、劍、淵、為、儻、游
   - [04 橫](https://m.bilibili.com/video/BV1bJ411y7Bt?p=4)：一、書、孟、三、女、翼、望、群、桑、善、辭、義、章、蕭
   - [05 豎、撇](https://m.bilibili.com/video/BV1bJ411y7Bt?p=5)：十、中、出、性、融、修、魁、廿、堈、辭、兩、軍、華、連、八、和、乘、以、鎮、沉、零、失、太、沉、亥、零、振
   - [06 方筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=6)：毅、分、八、養、遷、缺、遷、入、譽、養、毅、分、牧、遷、遊、之、八、登、修、妖、缺、譽、楚、復、遠、遊、遊、遠、養、入、從、獻、陰、遷、庭、道、還
-  - [07 圓筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=7)：賢、叛、史、教、散、道、長、求、尺、是、長、參、大、文、護、遷、聳、外
+  - [07 圓筆捺](https://m.bilibili.com/video/BV1bJ411y7Bt?p=7)：賢、叛、史、教、散、道、長、求、尺、是、長、叅、大、文、護、遷、聳、外
   - [08 方筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=8)：子、椽、掾、擊、淵、州、附、別、才、求、將、堈、協、內、勾、傾、聞、閑
   - [09 方筆反鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=9)：心、裁、義、戎、機、龜、魂、先、悦、地、魁、兆、親、光、沉、勢、風、氣、飛
   - [10 圓筆正鈎](https://m.bilibili.com/video/BV1bJ411y7Bt?p=10)：郎、芳、東、存、海、而、馭、傳、薄、呼、駕、陽、散、省、閣、為、賊、都、李、樂、希、郡、別、陽、鐫
