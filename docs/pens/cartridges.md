@@ -16,6 +16,7 @@
 | [Pilot Hi-Tecpoint V5](pilot-v5.md) | 6.0mm Pilot |
 | [Platinum Preppy](platinum-preppy.md) | 4.1mm Platinum |
 | Uni-ball Eye | N/A |
+| Unnamed Calligraphy Set | 2.6mm Bore |
 | Unnamed Retractable | 3.4mm Bore |
 | Waterman Allure | 2.4mm Standard |
 | [Wing Sung 3010](wing-sung-3010.md)| 3.4mm Bore |
