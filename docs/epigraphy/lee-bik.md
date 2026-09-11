@@ -2,6 +2,7 @@
 
 - [拓本 4x1](https://dd.3zitie.cn/sfzt_lt.asp?id=269)
 - [拓本 4x2](https://www.51sdj.com/tie.php?do=detail2&id=350)
+- [拓本 8x4](http://www.yac8.com/wap/news/13340.html)
 
 1
 君諱璧，字元和，勃海
