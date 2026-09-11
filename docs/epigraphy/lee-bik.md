@@ -1,5 +1,6 @@
 # 李璧墓志
 
+- [拓本 4x1](https://dd.3zitie.cn/sfzt_lt.asp?id=269)
 - [拓本 4x2](https://www.51sdj.com/tie.php?do=detail2&id=350)
 
 1
