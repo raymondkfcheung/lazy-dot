@@ -1,6 +1,6 @@
 # 李璧墓志
 
-https://www.51sdj.com/tie.php?do=detail2&id=350
+- [拓本 4x2](https://www.51sdj.com/tie.php?do=detail2&id=350)
 
 1
 君諱璧，字元和，勃海
