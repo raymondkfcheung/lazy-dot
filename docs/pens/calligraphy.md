@@ -88,7 +88,7 @@
     - 羈思獨不群
   - [23 命題創作](https://m.bilibili.com/video/BV1bJ411y7Bt?p=23)
   - [24 創作總結](https://m.bilibili.com/video/BV1bJ411y7Bt?p=24)
-- 魏碑李璧墓志 - 臨摹
+- 魏碑李璧墓志 - [臨摹](https://kknews.cc/culture/pe2ov62.html)
   - [01 昭](https://www.bilibili.com/video/BV1vzDgY9ETG)
   - [02 飛](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
   - [03 尚](https://www.bilibili.com/video/BV1TP4y1j7cS)
