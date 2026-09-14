@@ -2,8 +2,9 @@
 
 - Diamine Deep Dark Green
 - Diamine Deep Dark Red
-- Hero 234 Carbon Black
 - Hero 201 Red
+- Hero 202 Blue Black
+- Hero 234 Carbon Black
 - Jinhao Black
 - Jinhao Blue
 - Karkos Green
