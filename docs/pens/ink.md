@@ -19,4 +19,4 @@
 - Platinum Yellow
 - Waterman Mysterious Blue
 - Waterman Tender Purple
-- Yinhu Super Blue Black
+- Yinhu (Silver Fox) Super Blue Black
