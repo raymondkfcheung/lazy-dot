@@ -90,7 +90,7 @@
   - [24 創作總結](https://m.bilibili.com/video/BV1bJ411y7Bt?p=24)
 - 魏碑李璧墓志 - [臨摹](https://kknews.cc/culture/pe2ov62.html)
   - [01 昭、光、兼、遷 …](https://www.bilibili.com/video/BV1vzDgY9ETG)
-  - [02 飛](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
+  - [02 飛、以、貫、聞 …](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
   - [03 尚](https://www.bilibili.com/video/BV1TP4y1j7cS)
   - [04 州](https://www.bilibili.com/video/BV1av411T753)
   - [05 獻](https://www.bilibili.com/video/BV1EQ4y1S7C4)
