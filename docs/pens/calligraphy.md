@@ -94,7 +94,7 @@
   - [03 尚](https://www.bilibili.com/video/BV1TP4y1j7cS)
   - [04 州](https://www.bilibili.com/video/BV1av411T753)
   - [05 獻](https://www.bilibili.com/video/BV1EQ4y1S7C4)
-  - [06 疾](https://www.bilibili.com/video/BV1NP4y1j7Zb)
+  - [06 疾風過齊魯](https://www.bilibili.com/video/BV1NP4y1j7Zb)
   - [07 壟](https://www.bilibili.com/video/BV1FL4y1q7G3)
   - [08 禝下觀書 … 雲韻乘琳](https://www.bilibili.com/video/BV1fL411G7tN)
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
