@@ -92,7 +92,7 @@
   - [01 壟](https://www.bilibili.com/video/BV1FL4y1q7G3)
   - [02 州、擊、佛、東 - 14 強攻難點部首](https://www.bilibili.com/video/BV1av411T753)
   - [03 尚、協、當、連 - 15 強攻精彩之字](https://www.bilibili.com/video/BV1TP4y1j7cS)
-  - [04 獻](https://www.bilibili.com/video/BV1EQ4y1S7C4)
+  - [04 獻、贊、槐、庭 - 18 選臨與通臨](https://www.bilibili.com/video/BV1EQ4y1S7C4)
   - [05 昭、光、兼、遷 …](https://www.bilibili.com/video/BV1vzDgY9ETG)
   - [06 飛、以、貫、聞 … 璆 … 御 …](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
   - [07 禝下觀書 … 雲韻乘琳](https://www.bilibili.com/video/BV1fL411G7tN)
