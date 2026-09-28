@@ -89,7 +89,7 @@
   - [23 命題創作](https://m.bilibili.com/video/BV1bJ411y7Bt?p=23)
   - [24 創作總結](https://m.bilibili.com/video/BV1bJ411y7Bt?p=24)
 - 魏碑李璧墓志 - [臨摹](https://kknews.cc/culture/pe2ov62.html)
-  - [01 壟](https://www.bilibili.com/video/BV1FL4y1q7G3)
+  - [01 壟、義、遷、缺 - 01 說臨帖](https://www.bilibili.com/video/BV1FL4y1q7G3)
   - [02 州、擊、佛、東 - 14 強攻難點部首](https://www.bilibili.com/video/BV1av411T753)
   - [03 尚、協、當、連 - 15 強攻精彩之字](https://www.bilibili.com/video/BV1TP4y1j7cS)
   - [04 昭、光、兼、遷 …](https://www.bilibili.com/video/BV1vzDgY9ETG)
