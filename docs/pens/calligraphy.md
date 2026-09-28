@@ -69,7 +69,7 @@
     - 和、寶、借、規、轍、權、書、養、堈、金、滅、猷、祐、親、御
   - [16 筆速和墨法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=16)：北、魏、聳、八、國、蕭、滅、缺、鼎、泗、員、靡、傾、召、鑒、銘、公、督、丘、謠、賊、召、華、心、勢、遊、兼、飛
   - [17 章法節奏](https://m.bilibili.com/video/BV1bJ411y7Bt?p=17)：泗、養、翼、竝、沉、哀、年、是、栖、遊、員、亡、出、北、以、荷、鸞、內、子、樇
-  - [18 選臨與通臨](https://m.bilibili.com/video/BV1bJ411y7Bt?p=18)：獻、贊、槐、庭、風、輝、天、閣、雖、希、逸、之、优、廣、陵、無、以、過、也、天、道、芒、昧、報、善、無、聞、不、幸、遘、疾、春、坐、使、諸、王、情、深、面、尋、丁、難、窮、沉、哀、郷、地、栖、遊、漳、里、廿、餘、年、是、故、零
+  - [18 選臨與通臨](https://m.bilibili.com/video/BV1bJ411y7Bt?p=18)：獻、贊、槐、庭、風、輝、天、閣、雖、希、逸、之、佐、廣、陵、無、以、過、也、天、道、芒、昧、報、善、無、聞、不、幸、遘、疾、春、坐、使、諸、王、情、深、面、尋、丁、難、窮、沉、哀、郷、地、栖、遊、漳、里、廿、餘、年、是、故、零
   - [19 意臨方法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=19)：冀、淵
   - [20 集字創作(一)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=20)：見賢思齊
   - [21 集字創作(二)](https://m.bilibili.com/video/BV1bJ411y7Bt?p=21)
@@ -92,9 +92,9 @@
   - [01 壟](https://www.bilibili.com/video/BV1FL4y1q7G3)
   - [02 州、擊、佛、東 - 14 強攻難點部首](https://www.bilibili.com/video/BV1av411T753)
   - [03 尚、協、當、連 - 15 強攻精彩之字](https://www.bilibili.com/video/BV1TP4y1j7cS)
-  - [04 獻、贊、槐、庭 - 18 選臨與通臨](https://www.bilibili.com/video/BV1EQ4y1S7C4)
-  - [05 昭、光、兼、遷 …](https://www.bilibili.com/video/BV1vzDgY9ETG)
-  - [06 飛、以、貫、聞 … 璆 … 御 …](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
+  - [04 昭、光、兼、遷 …](https://www.bilibili.com/video/BV1vzDgY9ETG)
+  - [05 飛、以、貫、聞 … 璆 … 御 …](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
+  - [06 獻、贊、槐、庭 - 18 選臨與通臨](https://www.bilibili.com/video/BV1EQ4y1S7C4)
   - [07 禝下觀書 … 雲韻乘琳](https://www.bilibili.com/video/BV1fL411G7tN)
   - [08 疾風過齊魯 - 21 集字創作（二）](https://www.bilibili.com/video/BV1NP4y1j7Zb)
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
