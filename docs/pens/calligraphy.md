@@ -64,7 +64,7 @@
     - 悦、缺、兩、對、李、遷、外、督、歲、二、亥、陽、永、鐫、墳
     - 秀、風、馭、八、公、蕃、鎮、諮、遘、冀、月、遷、銘、諫、衰
     - 譽、國、因、孝、兆、鑒、東、州、疾、年、廿、之、涌、芳、昭
-    - 心、生、典、連、心、希、先、門、沉、缺、南、縣、海、曾、操
+    - 心、生、典、連、心、希、先、門、沉、缺、南、縣、海、曾、璆
     - 禝、與、氣、郎、戚、坐、遞、史、體、壟、遷、聲、文、祖、莞
     - 和、寶、借、規、轍、權、書、養、堈、金、滅、猷、祐、親、御
   - [16 筆速和墨法](https://m.bilibili.com/video/BV1bJ411y7Bt?p=16)：北、魏、聳、八、國、蕭、滅、缺、鼎、泗、員、靡、傾、召、鑒、銘、公、督、丘、謠、賊、召、華、心、勢、遊、兼、飛
@@ -94,7 +94,7 @@
   - [03 獻](https://www.bilibili.com/video/BV1EQ4y1S7C4)
   - [04 壟](https://www.bilibili.com/video/BV1FL4y1q7G3)
   - [05 昭、光、兼、遷 …](https://www.bilibili.com/video/BV1vzDgY9ETG)
-  - [06 飛、以、貫、聞 … 御 …](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
+  - [06 飛、以、貫、聞 … 璆 … 御 …](https://www.bilibili.com/video/BV1vzDgY9ETG/?p=2)
   - [07 禝下觀書 … 雲韻乘琳](https://www.bilibili.com/video/BV1fL411G7tN)
   - [08 疾風過齊魯 - 21 集字創作（二）](https://www.bilibili.com/video/BV1NP4y1j7Zb)
 - [魏碑孟敬訓墓志](https://m.bilibili.com/video/BV1tJ411y76r/)
