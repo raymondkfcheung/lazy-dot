@@ -89,7 +89,7 @@
   - [23 命題創作](https://m.bilibili.com/video/BV1bJ411y7Bt?p=23)
   - [24 創作總結](https://m.bilibili.com/video/BV1bJ411y7Bt?p=24)
 - 魏碑李璧墓志 - [臨摹](https://kknews.cc/culture/pe2ov62.html)
-  - [01 尚](https://www.bilibili.com/video/BV1TP4y1j7cS)
+  - [01 尚、協、當、連 - 15 強攻精彩之字](https://www.bilibili.com/video/BV1TP4y1j7cS)
   - [02 州](https://www.bilibili.com/video/BV1av411T753)
   - [03 獻](https://www.bilibili.com/video/BV1EQ4y1S7C4)
   - [04 壟](https://www.bilibili.com/video/BV1FL4y1q7G3)
