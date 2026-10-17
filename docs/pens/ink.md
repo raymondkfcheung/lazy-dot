@@ -22,7 +22,7 @@
 - Yinhu (Silver Fox) Super Blue Black
 
 | Ink | Price | Capicity (ml) | per ml | Source |
-|-----|-------:|--------------:|-------:|--------|
+|-----|------:|--------------:|-------:|--------|
 | Diamine | £8 | 80 | 10p | Diamine |
 | Hero | £3 | 75 | 4p | Temu |
 | Jinhao | £12 | 100 | 12p | Temu |
