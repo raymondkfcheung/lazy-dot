@@ -23,6 +23,7 @@
 
 | Ink | Price | Capicity (ml) | per ml | Source |
 |-----|------:|--------------:|-------:|--------|
-| Diamine | £8 | 80 | 10p | Diamine |
-| Hero | £3 | 75 | 4p | Temu |
-| Jinhao | £12 | 100 | 12p | Temu |
+| Diamine | £3.24 | 30 | 11p | Diamine |
+| Diamine | £8.06 | 80 | 10p | Diamine |
+| Hero | ~£3 | 75 | 4p | Temu |
+| Jinhao | ~£12 | 100 | 12p | Temu |
