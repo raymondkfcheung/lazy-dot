@@ -26,6 +26,7 @@
 | Diamine | £3.24 | 30 | 11p | Diamine |
 | Diamine | £8.06 | 80 | 10p | Diamine |
 | Hero | ~£3 | 75 | 4p | Temu |
+| Karkos | ~£3 | 30 | 10p | eBay / Temu |
 | Jinhao | ~£12 | 100 | 12p | Temu |
 | Kaweco | ~£13 | 50 | 26p | Amazon / Online Pen |
 | Lamy | ~£12 | 50 | 24p | eBay |
