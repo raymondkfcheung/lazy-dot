@@ -32,5 +32,7 @@
 | Lamy | ~£12 | 50 | 24p | eBay |
 | Mountblanc | ~£30 | 60 | 50p | Pen Shop |
 | Parker | ~£7 | 57 | 12p | Amazon |
+| Pelikan | ~£8 | 62.5 | 13p | Amazon |
 | Pelikan | ~£28 | 1,000 | 3p | Amazon |
+| Pilot | ~£7 | 30 | 23p | Hunter Paper |
 | Waterman | ~£10 | 50 | 20p | Amazon / Online Pen |
