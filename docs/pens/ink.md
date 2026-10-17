@@ -28,6 +28,7 @@
 | Hero | ~£4 | 50 | 8p | Temu |
 | Hero | ~£3 | 75 | 4p | Temu |
 | Karkos | ~£3 | 30 | 10p | eBay / Temu |
+| Jinhao | ~£10 | 50 | 20p | Temu |
 | Jinhao | ~£12 | 100 | 12p | Temu |
 | Kaweco | ~£13 | 50 | 26p | Amazon / Online Pen |
 | Lamy | ~£12 | 50 | 24p | eBay |
