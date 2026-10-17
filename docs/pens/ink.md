@@ -37,4 +37,5 @@
 | Pelikan | ~£8 | 62.5 | 13p | Amazon |
 | Pelikan | ~£28 | 1,000 | 3p | Amazon |
 | Pilot | ~£7 | 30 | 23p | Hunter Paper |
+| Platinum | ~£20 | 60 | 33p | Pen Haven |
 | Waterman | ~£10 | 50 | 20p | Amazon / Online Pen |
