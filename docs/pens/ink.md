@@ -21,8 +21,8 @@
 - Waterman Tender Purple
 - Yinhu (Silver Fox) Super Blue Black
 
-| Ink | Price | Capicity | per ml | Source |
-|-----|-------|----------|--------|--------|
-| Diamine | £8 | 80ml | 10p | Diamine |
-| Hero | £3 | 75ml | 4p | Temu |
-| Jinhao | £12 | 100ml | 12p | Temu |
+| Ink | Price | Capicity (ml) | per ml | Source |
+|-----|-------:|--------------:|-------:|--------|
+| Diamine | £8 | 80 | 10p | Diamine |
+| Hero | £3 | 75 | 4p | Temu |
+| Jinhao | £12 | 100 | 12p | Temu |
