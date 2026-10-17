@@ -27,3 +27,4 @@
 | Diamine | £8.06 | 80 | 10p | Diamine |
 | Hero | ~£3 | 75 | 4p | Temu |
 | Jinhao | ~£12 | 100 | 12p | Temu |
+| Pelikan | ~£28 | 1,000 | 3p Amazon |
