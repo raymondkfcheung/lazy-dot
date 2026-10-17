@@ -25,6 +25,7 @@
 |-----|------:|--------------:|-------:|--------|
 | Diamine | £3.24 | 30 | 11p | Diamine |
 | Diamine | £8.06 | 80 | 10p | Diamine |
+| Hero | ~£4 | 50 | 8p | Temu |
 | Hero | ~£3 | 75 | 4p | Temu |
 | Karkos | ~£3 | 30 | 10p | eBay / Temu |
 | Jinhao | ~£12 | 100 | 12p | Temu |
